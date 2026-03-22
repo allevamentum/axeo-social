@@ -1,0 +1,83 @@
+{
+  "day": "Friday",
+  "week": 1,
+  "posts": [
+    {
+      "id": "W1-FRI-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Your weekend screen time is about to hit 14 hours. Prep your eyes now.",
+      "caption": "Weekend screen time spikes 30-40% for most people.\n\nNetflix binges. Gaming sessions. Doomscrolling in bed.\n\nDo this 2-minute exercise routine BEFORE your weekend starts:\n\n#WeekendPrep #ScreenTime #Axeo #EyeHealth #HealthTok #FridayVibes",
+      "visual_notes": "Quick montage: couch + TV, phone in bed, gaming setup. Counter showing hours going up. Cut to Axeo exercise. Upbeat Friday energy.",
+      "cta": "Link in bio — free exercises"
+    },
+    {
+      "id": "W1-FRI-02",
+      "platform": "tiktok",
+      "time": "18:30",
+      "pillar": "demo",
+      "format": "video-30s",
+      "hook": "This is the most cinematic eye exercise app you've ever seen.",
+      "caption": "We spent 6 months making eye exercises actually look good.\n\nARKit face tracking. HTML5 Canvas animations. Cinematic UI.\n\n17 exercises. 6 vision tests. 3 programs.\n\nFrom $2.92/mo or try 6 exercises free.\n\naxeo.vision\n\n#AppDesign #Axeo #AxeoVision #UIDesign #HealthTech #EyeTraining",
+      "visual_notes": "Cinematic app walkthrough. Slow pans across exercise animations. Show ARKit tracking face. Smooth transitions with ambient music. Premium feel.",
+      "cta": "Link in bio — try free"
+    },
+    {
+      "id": "W1-FRI-03",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "education",
+      "format": "reel-30s",
+      "hook": "Your Friday night Netflix binge is about to wreck your eyes. Do this first.",
+      "caption": "Before you start your weekend binge, do this:\n\n1. Palming (60 seconds) — warm your hands, cover closed eyes\n2. Focus Shift (30 seconds) — alternate near and far focus\n3. Set a 20-minute reminder for breaks\n\nYour Monday-morning self will thank you.\n\nFree at axeo.vision/exercise\n\n#Axeo #AxeoVision #WeekendPrep #NetflixAndChill #EyeHealth #SelfCare #FridayRoutine",
+      "visual_notes": "Split screen: left shows Netflix queue, right shows quick exercise routine. Timer overlay. Transition to 'ready for the weekend' celebration. Trending audio.",
+      "cta": "Link in bio"
+    },
+    {
+      "id": "W1-FRI-04",
+      "platform": "instagram",
+      "time": "17:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Weekend plans: gaming, Netflix, or going outside?",
+      "caption": "What's winning this weekend?",
+      "visual_notes": "Instagram Story with emoji slider poll. Three options with icons: Gaming controller, Netflix logo, Sunshine. Playful Friday design. Brand colors.",
+      "cta": "Whatever you choose — exercise your eyes first at axeo.vision"
+    },
+    {
+      "id": "W1-FRI-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "demo",
+      "format": "video-30s",
+      "hook": "I built an eye exercise platform. Here's a 30-second tour.",
+      "caption": "30-second tour of Axeo — the eye exercise platform I've been building.\n\n- 17 exercises with HTML5 Canvas animations\n- ARKit face tracking for guided sessions\n- 6 vision tests (Snellen + Ishihara free)\n- 3 structured programs\n\n6 exercises free. Full access from $2.92/mo.\n\naxeo.vision\n\n#BuildInPublic #IndieHacker #Axeo #HealthTech #AppDev",
+      "visual_notes": "Fast-paced screen recording touring the platform. Show exercise animations, test interface, pricing. Build-in-public energy. Indie dev music.",
+      "cta": "Try it free — link in description"
+    },
+    {
+      "id": "W1-FRI-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "media-post",
+      "hook": "Weekend screen time is 30-40% higher than weekdays. Your eyes don't get days off.",
+      "caption": "Your screen time spikes every weekend.\n\nYour eyes don't get recovery days.\n\n5-minute exercise routine before your Friday night binge:\naxeo.vision/exercise\n\nFree. No signup. Works on your phone.",
+      "visual_notes": "Bar chart showing weekday vs weekend screen time. Simple, clean infographic.",
+      "cta": "axeo.vision/exercise"
+    },
+    {
+      "id": "W1-FRI-07",
+      "platform": "linkedin",
+      "time": "14:00",
+      "pillar": "conversion",
+      "format": "text-post",
+      "hook": "Week 1 of building Axeo in public. Here's what we shipped.",
+      "caption": "Week 1 building Axeo in public.\n\nWhat we shipped:\n- 6 free browser-based eye exercises (HTML5 Canvas)\n- Snellen acuity test + Ishihara color vision test\n- Landing page at axeo.vision\n\nWhat we learned:\n- People don't know eye exercises exist\n- The phrase 'vision training' confuses people (they think LASIK)\n- Short-form video is the fastest way to demonstrate value\n\nNext week: ARKit tracking demo, first paid conversions target.\n\nIf you're in health tech or building consumer wellness products, would love to connect.\n\naxeo.vision",
+      "visual_notes": "No image needed. Optional: screenshot collage of the product.",
+      "cta": "axeo.vision"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "day": "Saturday",
+  "week": 1,
+  "posts": [
+    {
+      "id": "W1-SAT-01",
+      "platform": "tiktok",
+      "time": "10:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Ophthalmologist explains: why your eyes twitch and what it actually means.",
+      "caption": "Why do your eyes twitch?\n\nAn ophthalmologist explains:\n\n- Fatigue and stress (most common)\n- Caffeine overstimulation\n- Screen-induced strain on the orbicularis oculi muscle\n- Rarely: neurological conditions (see a doctor if persistent)\n\n95% of the time it's harmless. But it's your body telling you to rest your eyes.\n\n#EyeTwitch #Ophthalmologist #Axeo #EyeHealth #HealthTok #MedTok",
+      "visual_notes": "Talking head with 'Ophthalmologist Explains' title card. Close-up of eye twitching (stock). Bullet points appear on screen. Medical but approachable tone.",
+      "cta": "Link in bio — rest your eyes with guided exercises"
+    },
+    {
+      "id": "W1-SAT-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Can you pass all 14 Ishihara plates? Most people can't.",
+      "caption": "Can you pass all 14 Ishihara plates?\n\nMost people miss at least one.\n\nTake the full test — free, no signup, results instant.\n\naxeo.vision/test\n\n#Ishihara #ColorBlindTest #Axeo #EyeTest #CanYouSeeIt #InteractiveTest",
+      "visual_notes": "Rapid-fire Ishihara plates appearing one after another with countdown timer. Dramatic music builds. 'Can you keep up?' text overlay. End on test link.",
+      "cta": "Link in bio — take the full test"
+    },
+    {
+      "id": "W1-SAT-03",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "We compared every free eye test online. Here's which ones are actually legit.",
+      "caption": "We tested every free online vision test we could find.\n\nMost are ad-filled, outdated, or medically questionable.\n\nWhat makes a vision test legit:\n- Based on standardized charts (Snellen, Ishihara)\n- Calibrated for screen distance\n- No upsell before results\n\nAxeo's tests: free, standardized, instant results.\n\naxeo.vision/test\n\n#Axeo #AxeoVision #VisionTest #EyeTest #OnlineTest #EyeHealth #Comparison",
+      "visual_notes": "Split screen comparison: competitor sites (blurred/generic) vs Axeo clean interface. Checkmark/X overlay for each criterion. Satisfying reveal of Axeo passing all checks.",
+      "cta": "Link in bio — try the difference"
+    },
+    {
+      "id": "W1-SAT-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "How many Ishihara plates can you pass? Swipe to find out.",
+      "caption": "Test your color vision!",
+      "visual_notes": "Instagram Story series: 3 Ishihara plates shown one per story slide with quiz sticker for each. Final slide shows 'Get your full result' with link to axeo.vision/test.",
+      "cta": "Full test at axeo.vision/test"
+    },
+    {
+      "id": "W1-SAT-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Ophthalmologist explains the one exercise that actually reduces eye strain.",
+      "caption": "Ophthalmologist explains: the one exercise clinically shown to reduce digital eye strain.\n\nIt's called Focus Shifting.\n\nHold your finger 6 inches from your nose. Focus on it for 5 seconds. Then focus on something 20 feet away for 5 seconds. Repeat 10 times.\n\nThis trains your ciliary muscle to switch between near and distance focus.\n\nFree guided version at axeo.vision/exercise\n\n#Ophthalmologist #EyeExercise #Axeo #FocusShift #EyeStrain",
+      "visual_notes": "Medical-authority style. Talking head with title. Demonstrate the exercise with distance markers on screen. Show Axeo guided version at end.",
+      "cta": "Free guided exercise — link in description"
+    },
+    {
+      "id": "W1-SAT-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "conversion",
+      "format": "media-post",
+      "hook": "Axeo vs. generic eye exercise apps: what you actually get.",
+      "caption": "What Axeo gives you that generic eye exercise apps don't:\n\n- Browser-based (no download needed)\n- ARKit face tracking for guided sessions\n- Standardized vision tests (Snellen + Ishihara)\n- 17 exercises based on AAO/COVD guidelines\n- 6 exercises completely free\n\nFrom $2.92/mo for full access.\n\naxeo.vision",
+      "visual_notes": "Comparison table: Axeo vs 'Generic App'. Checkmarks and X marks. Clean design, brand colors.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W1-SAT-07",
+      "platform": "reddit",
+      "time": "15:00",
+      "pillar": "education",
+      "format": "text-post",
+      "hook": "Interactive Ishihara test — curious how many plates people here can pass.",
+      "caption": "Hey r/eyehealth — I've been reading about color vision deficiency and found a free browser-based Ishihara test that's pretty well-made.\n\nTook it myself and passed all plates, but I'm curious:\n\n- How many plates do most people pass?\n- Is it common to fail 1-2 plates and still have 'normal' color vision?\n- Has anyone here discovered they were color deficient through an online test?\n\nThe test I used: axeo.vision/test (free, no signup, instant results)\n\nWould love to hear your experiences or any insights from professionals here.",
+      "visual_notes": "Text post to r/eyehealth. Authentic question-driven Reddit tone. No images needed.",
+      "cta": "axeo.vision/test"
+    }
+  ]
+}

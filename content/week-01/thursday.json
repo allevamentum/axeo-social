@@ -1,0 +1,83 @@
+{
+  "day": "Thursday",
+  "week": 1,
+  "posts": [
+    {
+      "id": "W1-THU-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Kids are getting myopia at double the rate of 20 years ago. This is why.",
+      "caption": "Kids are getting myopia at DOUBLE the rate of 20 years ago.\n\nThe culprit? Screens before age 6, less outdoor time, and near-focus overload.\n\nParents — check your kid's vision. Free Snellen test takes 2 minutes.\n\n#KidsHealth #Myopia #Axeo #EyeHealth #ParentTok #ChildrensVision",
+      "visual_notes": "Stat appears in bold text on screen. Cut to footage of kids on tablets. Graph showing myopia rates rising. End with Axeo test interface.",
+      "cta": "Link in bio — free vision test"
+    },
+    {
+      "id": "W1-THU-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "conversion",
+      "format": "video-30s",
+      "hook": "I just took every vision test on this site. Here's what it found.",
+      "caption": "I just took every vision test on axeo.vision. Here's what happened:\n\n- Snellen acuity: 20/25 (not as sharp as I thought)\n- Ishihara color test: passed all plates\n- Took 3 minutes total\n\nNo download. No signup. Just results.\n\naxeo.vision/test\n\n#VisionTest #EyeTest #Axeo #AxeoVision #EyeCheck #HealthTok",
+      "visual_notes": "Screen recording walkthrough of both tests. Genuine reaction to results. Show each step clearly. Face cam in corner.",
+      "cta": "Link in bio — take the full test"
+    },
+    {
+      "id": "W1-THU-03",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "Full walkthrough: every vision test on Axeo in 3 minutes.",
+      "caption": "Full walkthrough: every free vision test on Axeo.\n\n1. Snellen acuity test — read the smallest line you can\n2. Ishihara color test — spot the numbers in the dots\n\nResults are instant. No app download. Works on any device.\n\naxeo.vision/test\n\n#Axeo #AxeoVision #VisionTest #EyeHealth #FreeTest #SnellenChart #EyeCheckUp",
+      "visual_notes": "Clean screen recording of full test flow on axeo.vision/test. Smooth transitions between tests. Results highlighted with zoom. Trending audio.",
+      "cta": "Link in bio"
+    },
+    {
+      "id": "W1-THU-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "When was your kid's last eye check?",
+      "caption": "Quick check for parents!",
+      "visual_notes": "Instagram Story with poll: 'When was your kid's last eye check?' Options: 'This year', 'Last year', '2+ years ago', 'Never'. Fun, family-friendly design with brand colors.",
+      "cta": "Free test at axeo.vision/test"
+    },
+    {
+      "id": "W1-THU-05",
+      "platform": "youtube-shorts",
+      "time": "15:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Why your child's screen time is reshaping their eyeballs. Literally.",
+      "caption": "Extended near-focus during childhood physically elongates the eyeball. That's what causes myopia.\n\nIt's not reversible. But you can slow it.\n\n- More outdoor time (2+ hours/day)\n- Screen breaks every 20 minutes\n- Regular vision checks\n\nFree Snellen test for kids at axeo.vision/test\n\n#Myopia #KidsVision #Axeo #EyeHealth #ParentingTips",
+      "visual_notes": "Simple animation showing eyeball elongation. Cut to outdoor play footage. Then Axeo test interface. Calm, informative tone.",
+      "cta": "Free vision test — link in description"
+    },
+    {
+      "id": "W1-THU-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "media-post",
+      "hook": "The WHO predicts 50% of the world will be myopic by 2050.",
+      "caption": "The WHO predicts half the world will be myopic by 2050.\n\nThe biggest driver? Childhood screen time and reduced outdoor exposure.\n\nEvery parent should baseline their kid's vision. Takes 2 minutes.\n\nFree Snellen test: axeo.vision/test",
+      "visual_notes": "Infographic showing WHO myopia projection curve. Clean data visualization with brand colors.",
+      "cta": "axeo.vision/test"
+    },
+    {
+      "id": "W1-THU-07",
+      "platform": "linkedin",
+      "time": "14:00",
+      "pillar": "conversion",
+      "format": "text-post",
+      "hook": "We built a free vision testing platform. Here's why we made it free.",
+      "caption": "We built a free vision testing platform at axeo.vision.\n\nSnellen acuity + Ishihara color vision. No download, no signup, results in 2 minutes.\n\nWhy free?\n\nBecause 2.2 billion people have a vision impairment globally, and half could have been prevented or addressed earlier. Access to basic screening shouldn't require a copay.\n\nAxeo's core product is a training platform — 17 exercises, 6 tests, 3 structured programs for $2.92/mo.\n\nBut the entry point should always be free.\n\nIf you're building health products: lead with value, not paywalls.\n\naxeo.vision/test",
+      "visual_notes": "No image needed for LinkedIn text post. Optional: screenshot of test interface.",
+      "cta": "axeo.vision/test"
+    }
+  ]
+}

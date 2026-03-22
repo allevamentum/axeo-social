@@ -1,0 +1,83 @@
+{
+  "day": "Monday",
+  "week": 1,
+  "posts": [
+    {
+      "id": "W1-MON-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Your eyes blink 60% LESS when you're on your phone.",
+      "caption": "Your eyes blink 60% LESS when you're on your phone. That's why they feel dry and tired by 5pm.\n\nThe fix takes 5 minutes.\n\n#Axeo #EyeHealth #ScreenTime #HealthTok #DigitalEyeStrain",
+      "visual_notes": "Close-up of eyes staring at phone, slow-mo blink. Text overlay with stat. Cut to Axeo exercise demo.",
+      "cta": "Link in bio: axeo.vision"
+    },
+    {
+      "id": "W1-MON-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "3 exercises ophthalmologists do themselves.",
+      "caption": "3 exercises ophthalmologists actually do themselves:\n\n1. Focus Shift (60s) — near-far alternation\n2. Palming (60s) — warm hands over closed eyes\n3. 20-20-20 Rule (20s) — look 20ft away every 20 min\n\nAll 3 are free at axeo.vision\n\n#EyeExercises #EyeTraining #Axeo #WellnessTok",
+      "visual_notes": "Talking head intro, then screen recording of each exercise on axeo.vision. Number overlay 1/2/3.",
+      "cta": "Try free at axeo.vision"
+    },
+    {
+      "id": "W1-MON-03",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "Your browser can now test your vision.",
+      "caption": "Your browser can now test your vision. No app needed.\n\nSnellen acuity test + Ishihara color vision — both free at axeo.vision/test\n\nResults in 2 minutes.\n\n#Axeo #VisionTest #EyeHealth #EyeCare #DigitalWellness #FreeHealthCheck",
+      "visual_notes": "Screen recording: navigate to axeo.vision/test, take Snellen test, show results. Smooth transitions, trending audio.",
+      "cta": "Link in bio"
+    },
+    {
+      "id": "W1-MON-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "How many hours of screen time today?",
+      "caption": "Quick poll time!",
+      "visual_notes": "Instagram Story with slider poll: 'How many hours of screen time today?' (2h to 12h slider). Brand colors background.",
+      "cta": "Swipe up to take a free vision test"
+    },
+    {
+      "id": "W1-MON-05",
+      "platform": "youtube-shorts",
+      "time": "15:00",
+      "pillar": "shock",
+      "format": "video-30s",
+      "hook": "I trained my eyes for 30 days. Here's my Snellen test result.",
+      "caption": "I trained my eyes for 30 days using Axeo. My Snellen test went from 20/30 to 20/20.\n\n5 minutes a day. That's it.\n\nFree vision test at axeo.vision/test\n\n#EyeTraining #VisionTest #EyeHealth #Axeo",
+      "visual_notes": "Before/after Snellen screenshots side by side. Calendar time-lapse showing 30 days. Celebration at the end.",
+      "cta": "Test your vision free — link in description"
+    },
+    {
+      "id": "W1-MON-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "thread",
+      "hook": "Your eye muscles are the most active muscles in your body.",
+      "caption": "Your eye muscles are the most active muscles in your body — 100,000+ movements per day.\n\nBut unlike your legs, you never stretch them.\n\nHere's why eye training matters (thread):\n\n1/ Your 6 extraocular muscles control every eye movement. After 7+ hours of screen focus, they're fatigued.\n\n2/ The ciliary muscle controls your lens shape. Constant near-focus (phones, laptops) locks it in one position. This is why distance vision deteriorates.\n\n3/ Clinical studies from the AAO show that structured eye exercises can improve convergence, reduce strain symptoms, and even improve near-focus.\n\n4/ We built Axeo to make this easy. 17 exercises, 5 minutes/day, based on AAO & COVD guidelines.\n\nTry free: axeo.vision",
+      "visual_notes": "No media needed for thread. Optional: eye anatomy diagram for tweet 1.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W1-MON-07",
+      "platform": "x",
+      "time": "14:00",
+      "pillar": "demo",
+      "format": "media-post",
+      "hook": "Try this right now — free, no signup.",
+      "caption": "Eye exercises in your browser. No download. No signup. Just start.\n\naxeo.vision/exercise\n\n6 exercises free. Built with HTML5 Canvas. Works on any device.",
+      "visual_notes": "GIF or screenshot of Axeo exercise canvas animation (Figure Eight or Focus Shift).",
+      "cta": "axeo.vision/exercise"
+    }
+  ]
+}

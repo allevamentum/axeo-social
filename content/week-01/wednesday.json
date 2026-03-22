@@ -1,0 +1,83 @@
+{
+  "day": "Wednesday",
+  "week": 1,
+  "posts": [
+    {
+      "id": "W1-WED-01",
+      "platform": "tiktok",
+      "time": "07:30",
+      "pillar": "demo",
+      "format": "video-30s",
+      "hook": "Follow along — this 2-minute eye exercise routine will reset your vision.",
+      "caption": "Follow along — this 2-minute eye exercise routine will reset your vision after a long screen session.\n\n1. Focus Shift (30s)\n2. Figure Eight (30s)\n3. Palming (60s)\n\nAll free at axeo.vision/exercise\n\n#EyeExercises #FollowAlong #Axeo #AxeoVision #HealthTok #EyeStrain",
+      "visual_notes": "Front-facing camera, instructor leads each exercise with timer overlay. Split screen shows Axeo browser exercise running simultaneously. Calming background music.",
+      "cta": "Link in bio — try the full routine"
+    },
+    {
+      "id": "W1-WED-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "MYTH: Eye exercises don't work. Here's what the AAO actually says.",
+      "caption": "MYTH: Eye exercises are pseudoscience.\n\nREALITY: The AAO recommends convergence exercises for convergence insufficiency. The COVD publishes guidelines for vision therapy.\n\nEye training won't fix your prescription — but it can reduce strain, improve convergence, and strengthen your focus muscles.\n\n#MythBusted #EyeHealth #Axeo #ScienceTok #EyeExercises",
+      "visual_notes": "Text on screen 'MYTH' in red, crossed out. Cut to AAO/COVD logos with cited guidelines. Fast-paced with dramatic sound effect on myth-bust reveal.",
+      "cta": "See the exercises: axeo.vision/exercise"
+    },
+    {
+      "id": "W1-WED-03",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "education",
+      "format": "reel-30s",
+      "hook": "3 eye myths your optometrist wishes you'd stop believing.",
+      "caption": "3 eye myths your optometrist wishes you'd stop believing:\n\n1. Reading in the dark damages your eyes (it doesn't — just causes temporary strain)\n2. Eating carrots fixes your vision (Vitamin A helps, but won't reverse refractive errors)\n3. Eye exercises are useless (AAO recommends them for convergence issues)\n\nStop guessing. Start testing.\n\n#EyeMyths #Axeo #AxeoVision #EyeHealth #OptometristTips #VisionCare",
+      "visual_notes": "Numbered list format with each myth appearing in red then getting crossed out. Replacement fact in green. Clean typography, brand colors.",
+      "cta": "Link in bio — free vision tests"
+    },
+    {
+      "id": "W1-WED-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "True or false: Blue light glasses prevent eye damage.",
+      "caption": "Let's bust another myth!",
+      "visual_notes": "Instagram Story with True/False quiz sticker. Background shows blue-light glasses with a '?' overlay. Brand colors, clean design.",
+      "cta": "Swipe up to learn more at axeo.vision"
+    },
+    {
+      "id": "W1-WED-05",
+      "platform": "youtube-shorts",
+      "time": "15:00",
+      "pillar": "demo",
+      "format": "video-30s",
+      "hook": "Do this eye workout with me — 2 minutes, zero equipment.",
+      "caption": "Do this eye workout with me right now. 2 minutes. Zero equipment.\n\nFocus Shift → Figure Eight → Palming\n\nYour eyes will feel different after this.\n\nFull guided routines free at axeo.vision/exercise\n\n#EyeWorkout #Axeo #VisionTraining #EyeExercises #HealthShorts",
+      "visual_notes": "Follow-along format. Instructor facing camera with timer. Each exercise demonstrated with on-screen instructions. Upbeat but calm music.",
+      "cta": "Full routine at axeo.vision/exercise"
+    },
+    {
+      "id": "W1-WED-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "media-post",
+      "hook": "Blue light glasses are a $30 billion scam. Here's what actually helps your eyes.",
+      "caption": "Blue light glasses are a $30B industry built on fear.\n\nThe AAO says there's no evidence they prevent eye damage.\n\nWhat actually helps:\n- Blinking exercises\n- Focus shifting\n- The 20-20-20 rule\n\nAll free at axeo.vision/exercise",
+      "visual_notes": "Infographic: 'Blue light glasses vs. eye exercises' comparison chart. Clean design, brand colors.",
+      "cta": "axeo.vision/exercise"
+    },
+    {
+      "id": "W1-WED-07",
+      "platform": "reddit",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "text-post",
+      "hook": "I tracked my eye strain for 30 days and tried structured exercises. Here's what changed.",
+      "caption": "I've been dealing with digital eye strain for years — dry eyes, headaches after work, blurry distance vision by evening.\n\nI started doing structured eye exercises (focus shifting, convergence drills, palming) for 5 minutes a day using a free browser tool.\n\nAfter 30 days:\n- Headaches reduced from 4x/week to 1x\n- Distance blur after screen sessions mostly gone\n- Actually remembering to take breaks now\n\nNot claiming it fixes prescriptions. But for strain and fatigue, the clinical literature backs this up (AAO convergence exercise guidelines, COVD vision therapy research).\n\nAnyone else tried structured eye exercises? Curious about your experience.\n\nThe tool I used: axeo.vision/exercise (free, browser-based)",
+      "visual_notes": "Text post to r/eyehealth. No images needed. Written in authentic first-person Reddit tone.",
+      "cta": "axeo.vision/exercise"
+    }
+  ]
+}

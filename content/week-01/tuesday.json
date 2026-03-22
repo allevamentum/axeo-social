@@ -1,0 +1,83 @@
+{
+  "day": "Tuesday",
+  "week": 1,
+  "posts": [
+    {
+      "id": "W1-TUE-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "1 in 12 men can't see this number. Can you?",
+      "caption": "1 in 12 men can't see this number. Can you?\n\nColor vision deficiency is way more common than you think — and most people don't know they have it.\n\nFree Ishihara test at axeo.vision/test\n\n#ColorBlind #ColorVisionTest #Axeo #EyeHealth #HealthTok",
+      "visual_notes": "Open on Ishihara plate filling the screen. Zoom in slowly. Text overlay '1 in 12 men fail this.' Cut to Axeo test interface showing result.",
+      "cta": "Link in bio — free color vision test"
+    },
+    {
+      "id": "W1-TUE-02",
+      "platform": "tiktok",
+      "time": "19:30",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Developers average 11 hours of screen time. Your eyes weren't built for this.",
+      "caption": "Developers average 11 hours of screen time per day.\n\nYour eyes weren't designed for this.\n\nHere's what happens to your ciliary muscle after 8 straight hours of near-focus:\n- Accommodative spasm\n- Blurred distance vision\n- Chronic eye fatigue\n\nThe fix? 5 minutes of structured eye exercises.\n\n#DevTok #Developer #ScreenTime #Axeo #EyeStrain #Programming",
+      "visual_notes": "Split screen: left shows developer coding, right shows eye anatomy. Text overlays for each symptom. End on Axeo exercise demo.",
+      "cta": "Free exercises at axeo.vision/exercise"
+    },
+    {
+      "id": "W1-TUE-03",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "Take this color vision test before your next eye appointment.",
+      "caption": "Take this color vision test before your next eye appointment.\n\nFree Ishihara test — results in 60 seconds. No app needed.\n\nI was shocked by my results.\n\naxeo.vision/test\n\n#Axeo #AxeoVision #ColorBlindTest #EyeTest #Ishihara #VisionCheck #EyeHealth",
+      "visual_notes": "Screen recording of taking Ishihara test on axeo.vision/test. Show each plate with reaction. Reveal result at end. Trending audio, quick cuts.",
+      "cta": "Link in bio — take the test"
+    },
+    {
+      "id": "W1-TUE-04",
+      "platform": "instagram",
+      "time": "17:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "What number do you see? Drop it below.",
+      "caption": "Can you see the number? Comment your answer!",
+      "visual_notes": "Instagram Story with Ishihara plate image and quiz sticker: 'What number do you see?' with options (7, 12, 15, I see nothing). Brand gradient background.",
+      "cta": "Full test free at axeo.vision/test"
+    },
+    {
+      "id": "W1-TUE-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "shock",
+      "format": "video-30s",
+      "hook": "POV: You just found out you've been color blind your whole life.",
+      "caption": "POV: You just found out you've been color blind your whole life.\n\n8% of men have some form of color vision deficiency. Most were never tested.\n\nTake the free Ishihara test at axeo.vision/test — results in 60 seconds.\n\n#ColorBlind #VisionTest #Axeo #EyeHealth #Ishihara",
+      "visual_notes": "Reaction-style video. Show Ishihara plates one by one with dramatic reveals. Text overlay with stats. End with test link.",
+      "cta": "Free test — link in description"
+    },
+    {
+      "id": "W1-TUE-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "thread",
+      "hook": "Software engineers have the highest rate of digital eye strain. Here's the data.",
+      "caption": "Software engineers have the highest rate of digital eye strain in any profession.\n\nHere's why — and what actually helps (thread):\n\n1/ The average developer stares at a screen for 11+ hours. Your blink rate drops from 15/min to 4/min during focused coding.\n\n2/ IDEs use small fonts. Dark mode helps contrast but doesn't fix the near-focus lock on your ciliary muscle.\n\n3/ The 20-20-20 rule works but nobody remembers it. You need a system.\n\n4/ We built Axeo for exactly this. 17 exercises based on clinical guidelines. 5 min/day in your browser.\n\nTry free: axeo.vision/exercise",
+      "visual_notes": "Optional: infographic showing screen time by profession.",
+      "cta": "axeo.vision/exercise"
+    },
+    {
+      "id": "W1-TUE-07",
+      "platform": "x",
+      "time": "20:00",
+      "pillar": "conversion",
+      "format": "media-post",
+      "hook": "Stitch this with your result. I bet you can't see plate 5.",
+      "caption": "Stitch this with your Ishihara test result. Plate 5 catches most people off guard.\n\nFree color vision test — 60 seconds, no signup:\naxeo.vision/test\n\nWhat did you score?",
+      "visual_notes": "Short GIF cycling through 3 Ishihara plates with '?' overlay. Designed to prompt duets/stitches/quote tweets.",
+      "cta": "axeo.vision/test"
+    }
+  ]
+}
