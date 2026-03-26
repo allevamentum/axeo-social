@@ -1,0 +1,83 @@
+{
+  "day": "Sunday",
+  "week": 1,
+  "posts": [
+    {
+      "id": "W1-SUN-01",
+      "platform": "tiktok",
+      "time": "09:00",
+      "pillar": "demo",
+      "format": "video-30s",
+      "hook": "Sunday reset: 5-minute eye workout to start your week with clear vision.",
+      "caption": "Sunday reset for your eyes.\n\n5-minute routine:\n1. Palming (90s) — warm hands, cover eyes, breathe\n2. Focus Shift (60s) — near to far, 10 reps\n3. Figure Eight (60s) — trace a figure 8 with your eyes\n4. 20-20-20 cool down (30s)\n\nDo this every Sunday. Your Monday eyes will feel different.\n\nFree at axeo.vision/exercise\n\n#SundayReset #EyeWorkout #Axeo #AxeoVision #HealthTok #SelfCareSunday",
+      "visual_notes": "Calm, clean aesthetic. Follow-along format with timer for each exercise. Soft ambient music. Sunday morning vibes — natural light, cozy setting.",
+      "cta": "Link in bio — full routine free"
+    },
+    {
+      "id": "W1-SUN-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Your Screen Time report just dropped. Be honest — are you proud of that number?",
+      "caption": "iOS just sent you your Screen Time report.\n\nBe honest — what's the number?\n\nAverage American: 7 hours/day. Average Gen Z: 9+ hours.\n\nYour eyes processed every single one of those hours.\n\nGive them 5 minutes back.\n\n#ScreenTimeReport #Axeo #EyeHealth #SundayScaries #HealthTok #DigitalWellness",
+      "visual_notes": "Open on iOS Screen Time notification mockup with high number. Dramatic zoom. Show averages as text overlay. Cut to Axeo exercise as 'the fix'. Trending guilt-trip audio.",
+      "cta": "Link in bio — 5-minute eye reset"
+    },
+    {
+      "id": "W1-SUN-03",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "education",
+      "format": "reel-30s",
+      "hook": "Week 1 recap: everything we posted about eye health this week.",
+      "caption": "Week 1 recap — here's what you learned about your eyes this week:\n\n- Your blink rate drops 60% on screens\n- 1 in 12 men have color vision deficiency\n- Eye exercises ARE backed by clinical research\n- Kids are getting myopia at 2x the rate of 20 years ago\n- Weekend screen time spikes 30-40%\n\nWhich fact surprised you the most? Comment below.\n\nFree tests + exercises: axeo.vision\n\n#Axeo #AxeoVision #WeeklyRecap #EyeHealth #VisionFacts #HealthEducation #EyeCare",
+      "visual_notes": "Carousel-style reel showing each fact from the week with the original visual. Quick cuts, recap energy. 'Which one surprised you?' poll at end. Trending recap audio.",
+      "cta": "Link in bio"
+    },
+    {
+      "id": "W1-SUN-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Rate your eye health this week: 1-10.",
+      "caption": "How did your eyes feel this week?",
+      "visual_notes": "Instagram Story with emoji slider (tired eyes to sparkling eyes). Clean Sunday aesthetic. 'Rate your eye health this week' text. Brand colors, relaxed design.",
+      "cta": "Start next week strong — axeo.vision/exercise"
+    },
+    {
+      "id": "W1-SUN-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "demo",
+      "format": "video-30s",
+      "hook": "Sunday eye workout — do this with me before the new week starts.",
+      "caption": "Sunday eye workout. Do this with me before Monday hits.\n\nPalming → Focus Shift → Figure Eight\n\n5 minutes. Your eyes carry you through every hour of screen time — give them this.\n\nFull guided routines free at axeo.vision/exercise\n\n#SundayWorkout #EyeExercise #Axeo #WeeklyReset #EyeHealth",
+      "visual_notes": "Follow-along workout format. Calm setting, natural light. Timer overlay for each exercise. Instructor facing camera. Relaxing Sunday music.",
+      "cta": "Free routine — link in description"
+    },
+    {
+      "id": "W1-SUN-06",
+      "platform": "x",
+      "time": "10:00",
+      "pillar": "shock",
+      "format": "media-post",
+      "hook": "Your Screen Time report just dropped. The average is 7 hours. What's yours?",
+      "caption": "Sunday Screen Time report just hit.\n\nAverage: 7 hours/day. That's 49 hours/week of continuous near-focus.\n\nYour eyes moved 100,000+ times today and you gave them zero recovery.\n\n5-minute reset: axeo.vision/exercise",
+      "visual_notes": "Mockup of iOS Screen Time report showing 7h average. Overlaid with '100,000+ eye movements / day' stat. Clean, minimal design.",
+      "cta": "axeo.vision/exercise"
+    },
+    {
+      "id": "W1-SUN-07",
+      "platform": "reddit",
+      "time": "15:00",
+      "pillar": "community",
+      "format": "text-post",
+      "hook": "Weekly discussion: What's your screen time average and do you notice eye strain?",
+      "caption": "Sunday check-in for r/eyehealth —\n\nCurious about the correlation between screen time and eye strain symptoms in this community.\n\nA few questions:\n1. What's your average daily screen time? (Check your phone's report)\n2. Do you experience any recurring symptoms? (dry eyes, headaches, blurry distance vision)\n3. Have you tried any exercises or habits that actually helped?\n\nI've been doing 5 minutes of structured eye exercises daily (focus shifting + palming) and tracking symptoms. Definitely noticed less end-of-day fatigue after 2 weeks.\n\nUsing axeo.vision/exercise for guided routines if anyone wants to try the same thing.\n\nWould love to compare notes.",
+      "visual_notes": "Text post to r/eyehealth. Discussion format, inviting community engagement. No images needed.",
+      "cta": "axeo.vision/exercise"
+    }
+  ]
+}
