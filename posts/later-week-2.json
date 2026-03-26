@@ -1,0 +1,134 @@
+{
+  "week": 2,
+  "dates": "2026-04-06 to 2026-04-12",
+  "posts_per_day": 3,
+  "total": 21,
+  "posts": [
+    {
+      "id": "W2-MON-01", "day": "Monday", "date": "2026-04-06", "time": "09:00",
+      "format": "reel",
+      "caption": "POV: You just discovered your screen time is 9 hours a day.\n\nYour eyes aren't designed for this. They evolved for hunting, not scrolling.\n\n5 minutes of training reverses hours of strain.\n\n#ScreenTime #EyeStrain #Axeo #DigitalWellness #EyeHealth",
+      "image": "homepage.png", "cta": "Link in bio"
+    },
+    {
+      "id": "W2-MON-02", "day": "Monday", "date": "2026-04-06", "time": "14:00",
+      "format": "carousel",
+      "caption": "6 types of eye exercises and what each one trains:\n\n1. Accommodation — Focus Shift, Window Dot\n2. Eye Movement — Saccades, Figure Eight\n3. Binocular — Convergence, Image Fusion\n4. Relaxation — Palming, Blinking\n5. Tracking — Square Tracing, Lines\n6. Strength — Lid Gym, Lid Massage\n\nAll 17 exercises at axeo.vision/exercise\n\n#EyeExercises #EyeTraining #Axeo #VisionCare #FitEyes",
+      "image": "exercises.png", "cta": "Try free — link in bio"
+    },
+    {
+      "id": "W2-MON-03", "day": "Monday", "date": "2026-04-06", "time": "19:00",
+      "format": "static-image",
+      "caption": "When was your kid's last eye check?\n\n80% of learning is visual. Undetected vision problems affect grades, sports, and confidence.\n\nFree vision screening takes 2 minutes.\n\n#KidsEyeHealth #ParentTips #VisionScreening #Axeo #BackToSchool",
+      "image": "tests-hub.png", "cta": "Free test at axeo.vision/test"
+    },
+    {
+      "id": "W2-TUE-01", "day": "Tuesday", "date": "2026-04-07", "time": "09:00",
+      "format": "static-image",
+      "caption": "Developers spend 10+ hours staring at code.\n\nHere's the programmer's eye care stack:\n\n1. 20-20-20 rule (Axeo reminds you)\n2. Palming between debug sessions\n3. Focus Shift during compile time\n4. Weekly Snellen test to track changes\n\nYour IDE has dark mode. Your eyes need Axeo.\n\n#DevLife #ProgrammerHealth #Axeo #CodingLife #TechHealth",
+      "image": "homepage.png", "cta": "axeo.vision"
+    },
+    {
+      "id": "W2-TUE-02", "day": "Tuesday", "date": "2026-04-07", "time": "14:00",
+      "format": "reel",
+      "caption": "This Ishihara plate separates normal vision from color deficiency.\n\nCan you see the number? Drop it in the comments.\n\nIf you can't — that doesn't mean something is wrong. But you should know.\n\n6 free plates at axeo.vision/test/color-vision\n\n#ColorBlind #IshiharaTest #EyeTest #Axeo #VisionTest",
+      "image": "color-vision.png", "cta": "Full test — link in bio"
+    },
+    {
+      "id": "W2-TUE-03", "day": "Tuesday", "date": "2026-04-07", "time": "19:00",
+      "format": "carousel",
+      "caption": "Axeo vs other eye training apps — honest comparison:\n\n✅ Free vision tests (most charge $5+)\n✅ Web + iOS (no download required)\n✅ Based on AAO & COVD guidelines\n✅ Camera eye tracking (iOS)\n✅ 17 exercises (not 3-4 basic ones)\n\nTry the difference yourself.\n\n#AppComparison #EyeTraining #Axeo #HealthTech #VisionCare",
+      "image": "exercises.png", "cta": "axeo.vision"
+    },
+    {
+      "id": "W2-WED-01", "day": "Wednesday", "date": "2026-04-08", "time": "09:00",
+      "format": "reel",
+      "caption": "The 20-20-20 rule explained in 15 seconds:\n\nEvery 20 minutes → Look 20 feet away → For 20 seconds\n\nIt's the #1 recommendation from ophthalmologists for digital eye strain.\n\nAxeo reminds you automatically.\n\n#2020Rule #EyeCare #Axeo #ScreenBreak #DigitalWellness",
+      "image": "homepage.png", "cta": "Get reminders — link in bio"
+    },
+    {
+      "id": "W2-WED-02", "day": "Wednesday", "date": "2026-04-08", "time": "14:00",
+      "format": "static-image",
+      "caption": "Your eyes have 6 muscles each. 12 total.\n\nThey control:\n- Focus distance\n- Tracking movement\n- Convergence (both eyes working together)\n- Peripheral awareness\n\nAxeo trains all of them. Gym for your eyes.\n\n#EyeAnatomy #EyeFitness #Axeo #EyeHealth #VisionTraining",
+      "image": "exercises.png", "cta": "Start training — axeo.vision"
+    },
+    {
+      "id": "W2-WED-03", "day": "Wednesday", "date": "2026-04-08", "time": "19:00",
+      "format": "carousel",
+      "caption": "3 structured training programs on Axeo:\n\n1. Digital Eye Relief (30 days) — FREE\n   For screen-heavy lifestyles\n\n2. Vision After 40 (45 days) — Premium\n   Age-related focus support\n\n3. Dry Eye Recovery (30 days) — Premium\n   Tear film rehabilitation\n\nStart with the free one.\n\n#EyeTraining #TrainingProgram #Axeo #VisionCare #HealthGoals",
+      "image": "exercises.png", "cta": "axeo.vision/exercise"
+    },
+    {
+      "id": "W2-THU-01", "day": "Thursday", "date": "2026-04-09", "time": "09:00",
+      "format": "carousel",
+      "caption": "Ophthalmologists do these 3 exercises themselves:\n\n1. Palming — the oldest eye relaxation technique\n2. Focus Shift — prevents accommodation spasm\n3. Blinking — restores tear film\n\nThey're simple. They work. They're free on Axeo.\n\n#Ophthalmology #DoctorApproved #Axeo #EyeExercises #EyeCare",
+      "image": "exercises.png", "cta": "Try them — link in bio"
+    },
+    {
+      "id": "W2-THU-02", "day": "Thursday", "date": "2026-04-09", "time": "14:00",
+      "format": "reel",
+      "caption": "Full app walkthrough: everything inside Axeo.\n\n0:00 — Homepage & quick sessions\n0:05 — Exercise library (17 exercises)\n0:10 — Vision tests (6 free)\n0:15 — Training programs\n0:20 — Progress tracking\n\nAll of this is available on the web too. No download needed.\n\n#AppWalkthrough #EyeTraining #Axeo #HealthApp #VisionCare",
+      "image": "homepage.png", "cta": "axeo.vision"
+    },
+    {
+      "id": "W2-THU-03", "day": "Thursday", "date": "2026-04-09", "time": "19:00",
+      "format": "static-image",
+      "caption": "How often should you test your vision?\n\n- Kids: every year\n- Adults 20-39: every 2-3 years\n- Adults 40-64: every 2 years\n- 65+: every year\n\nOr anytime you notice changes.\n\nFree screening at axeo.vision/test — takes 2 minutes.\n\n#VisionTest #EyeExam #EyeHealth #Axeo #PreventiveCare",
+      "image": "tests-hub.png", "cta": "Test now — link in bio"
+    },
+    {
+      "id": "W2-FRI-01", "day": "Friday", "date": "2026-04-10", "time": "09:00",
+      "format": "reel",
+      "caption": "Building Axeo in public — here's why we made it.\n\nWe spent 7+ hours/day on screens. Our eyes hurt. Doctors said 'take breaks.'\n\nSo we built an app that does it for you. Guided exercises. Automatic reminders. Real tracking.\n\nNow it's free for everyone.\n\n#BuildInPublic #IndieApp #Axeo #StartupStory #EyeHealth",
+      "image": "homepage.png", "cta": "Try it — axeo.vision"
+    },
+    {
+      "id": "W2-FRI-02", "day": "Friday", "date": "2026-04-10", "time": "14:00",
+      "format": "carousel",
+      "caption": "Axeo Premium — everything included:\n\n✅ All 17 exercises\n✅ 6 vision tests\n✅ 3 training programs\n✅ Camera eye tracking\n✅ Progress analytics\n✅ Unlimited sessions\n\nStarts at $2.99/week. 7-day free trial.\n\n30-day money-back guarantee.\n\n#AxeoPremium #EyeTraining #HealthApp #Axeo #VisionCare",
+      "image": "pricing.png", "cta": "Start free trial — link in bio"
+    },
+    {
+      "id": "W2-FRI-03", "day": "Friday", "date": "2026-04-10", "time": "19:00",
+      "format": "static-image",
+      "caption": "Weekend challenge: test your vision before and after a Netflix marathon.\n\nTake the Snellen test now. Binge your show. Take it again.\n\nDid your score change? Comment below.\n\n#WeekendChallenge #VisionTest #Axeo #Netflix #EyeHealth",
+      "image": "snellen.png", "cta": "axeo.vision/test/snellen"
+    },
+    {
+      "id": "W2-SAT-01", "day": "Saturday", "date": "2026-04-11", "time": "09:00",
+      "format": "static-image",
+      "caption": "Dry eyes? You're not alone.\n\n30% of adults experience dry eye symptoms. Screen use makes it worse.\n\nAxeo's Dry Eye Assessment tells you where you stand in 2 minutes.\n\nPlus: exercises specifically designed for tear film recovery.\n\n#DryEye #EyeHealth #Axeo #DryEyeRelief #VisionCare",
+      "image": "tests-hub.png", "cta": "Take the assessment — link in bio"
+    },
+    {
+      "id": "W2-SAT-02", "day": "Saturday", "date": "2026-04-11", "time": "14:00",
+      "format": "reel",
+      "caption": "We tested every free online eye test. Here's which ones are legit.\n\nMost are:\n❌ Ad-filled\n❌ Outdated charts\n❌ No standardization\n\nAxeo's tests are:\n✅ Based on Snellen & Ishihara standards\n✅ Clean, distraction-free\n✅ Instant results with interpretation\n\n#OnlineEyeTest #VisionTest #Axeo #EyeHealth #FreeTest",
+      "image": "snellen.png", "cta": "Try the difference — link in bio"
+    },
+    {
+      "id": "W2-SAT-03", "day": "Saturday", "date": "2026-04-11", "time": "19:00",
+      "format": "carousel",
+      "caption": "Science behind Axeo — the research we follow:\n\n- AAO (American Academy of Ophthalmology)\n- COVD (College of Optometrists in Vision Development)\n- Peer-reviewed studies on vision therapy\n\nEvery exercise is clinically grounded. Not wellness fluff.\n\n#EvidenceBased #EyeScience #Axeo #VisionTherapy #ClinicalResearch",
+      "image": "homepage.png", "cta": "Learn more at axeo.vision"
+    },
+    {
+      "id": "W2-SUN-01", "day": "Sunday", "date": "2026-04-12", "time": "09:00",
+      "format": "carousel",
+      "caption": "Week 2 recap — your eyes are getting stronger:\n\n- Screen time doesn't have to mean eye damage\n- 6 muscles per eye, all trainable\n- 20-20-20 rule is your daily shield\n- Dry eyes affect 30% of adults\n- Vision tests should be routine, not reactive\n\n2 weeks of eye health knowledge.\n\n#WeeklyRecap #EyeHealth #Axeo #VisionCare #DigitalWellness",
+      "image": "homepage.png", "cta": "axeo.vision"
+    },
+    {
+      "id": "W2-SUN-02", "day": "Sunday", "date": "2026-04-12", "time": "14:00",
+      "format": "reel",
+      "caption": "Sunday eye spa: 5-minute deep relaxation.\n\n1. Dim your lights\n2. Close your eyes\n3. Warm your palms by rubbing them\n4. Cup palms over closed eyes\n5. Breathe slowly for 3 minutes\n6. Slowly open — look at the farthest point you can see\n\nThis is Palming. It's been used since the 1920s.\n\n#SundaySpa #Palming #EyeRelaxation #Axeo #SelfCare",
+      "image": "exercises.png", "cta": "Guided version at axeo.vision"
+    },
+    {
+      "id": "W2-SUN-03", "day": "Sunday", "date": "2026-04-12", "time": "19:00",
+      "format": "static-image",
+      "caption": "Your eyes deserve 5 minutes a day.\n\nJoin 2,400+ people who are already protecting and improving their vision with Axeo.\n\nFree exercises. Free vision tests. No signup.\n\nStart now at axeo.vision\n\n#Axeo #EyeTraining #VisionCare #FreeApp #EyeHealth",
+      "image": "homepage.png", "cta": "axeo.vision"
+    }
+  ]
+}

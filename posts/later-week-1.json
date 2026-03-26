@@ -1,0 +1,92 @@
+{
+  "week": 1,
+  "dates": "2026-03-30 to 2026-04-05",
+  "posts_per_day": 2,
+  "total": 14,
+  "posts": [
+    {
+      "id": "W1-MON-01", "day": "Monday", "date": "2026-03-30", "time": "12:00",
+      "format": "reel",
+      "caption": "Your eyes blink 60% LESS when you're on your phone.\n\nThat's why they burn after scrolling. Your eye muscles are exhausted.\n\nAxeo gives you 17 clinically designed exercises that take just 5 minutes.\n\nTry free at axeo.vision\n\n#Axeo #EyeHealth #ScreenTime #DigitalWellness #VisionCare",
+      "image": "homepage.png", "cta": "Link in bio"
+    },
+    {
+      "id": "W1-MON-02", "day": "Monday", "date": "2026-03-30", "time": "18:00",
+      "format": "carousel",
+      "caption": "What number do you see? Comment below!\n\n1 in 12 men have some form of color vision deficiency. Most don't know it.\n\nTake the full Ishihara test free — results in 60 seconds.\n\naxeo.vision/test\n\n#ColorBlind #EyeTest #VisionTest #Axeo #IshiharaTest",
+      "image": "color-vision.png", "cta": "Take the test — link in bio"
+    },
+    {
+      "id": "W1-TUE-01", "day": "Tuesday", "date": "2026-03-31", "time": "12:00",
+      "format": "static-image",
+      "caption": "3 eye myths your optometrist wishes you'd stop believing:\n\n1. Reading in the dark damages your eyes — it doesn't\n2. Carrots fix your vision — Vitamin A helps, but won't reverse damage\n3. Eye exercises don't work — clinical studies say they DO\n\nThe science is clear. Train your eyes.\n\n#EyeMyths #EyeHealth #Axeo #VisionCare #DigitalEyeStrain",
+      "image": "homepage.png", "cta": "Free exercises at axeo.vision"
+    },
+    {
+      "id": "W1-TUE-02", "day": "Tuesday", "date": "2026-03-31", "time": "18:00",
+      "format": "reel",
+      "caption": "Your browser can now test your vision. No app needed.\n\nSnellen acuity test + Ishihara color vision — both free at axeo.vision/test\n\nResults in 2 minutes.\n\n#VisionTest #EyeExam #FreeTest #Axeo #EyeHealth",
+      "image": "tests-hub.png", "cta": "Link in bio"
+    },
+    {
+      "id": "W1-WED-01", "day": "Wednesday", "date": "2026-04-01", "time": "12:00",
+      "format": "reel",
+      "caption": "Follow along: 60-second eye workout you can do right now.\n\n1. Palming — warm hands, cover closed eyes (20s)\n2. Focus Shift — look near, then far (20s)\n3. Blink rapidly 10 times (20s)\n\nYour eyes just got a mini-vacation.\n\n#EyeWorkout #EyeExercises #Axeo #DigitalDetox #ScreenBreak",
+      "image": "exercises.png", "cta": "Full workouts at axeo.vision/exercise"
+    },
+    {
+      "id": "W1-WED-02", "day": "Wednesday", "date": "2026-04-01", "time": "18:00",
+      "format": "carousel",
+      "caption": "True or false: Blue light glasses prevent eye damage.\n\nFALSE. Studies show blue light from screens doesn't cause permanent damage.\n\nWhat DOES help: the 20-20-20 rule. Every 20 min, look 20 feet away for 20 seconds.\n\nAxeo has a built-in 20-20-20 reminder.\n\n#BlueLightGlasses #EyeFacts #Axeo #ScreenTime #EyeCare",
+      "image": "homepage.png", "cta": "Try it free — link in bio"
+    },
+    {
+      "id": "W1-THU-01", "day": "Thursday", "date": "2026-04-02", "time": "12:00",
+      "format": "static-image",
+      "caption": "Every vision test on Axeo — completely free:\n\n1. Snellen acuity — read the smallest line\n2. Ishihara color — spot the numbers\n3. Astigmatism check — identify blurry lines\n4. Contrast sensitivity — fading letters\n5. Amsler grid — detect distortions\n6. Dry eye assessment — symptom survey\n\nNo signup. Instant results.\n\n#VisionTest #EyeExam #Axeo #FreeTest #EyeScreening",
+      "image": "tests-hub.png", "cta": "axeo.vision/test"
+    },
+    {
+      "id": "W1-THU-02", "day": "Thursday", "date": "2026-04-02", "time": "18:00",
+      "format": "reel",
+      "caption": "I trained my eyes for 7 days straight. Here's what changed.\n\nDay 1: Couldn't focus past row 6 on Snellen\nDay 3: Less eye strain after work\nDay 7: Cleared row 7, headaches gone\n\n5 minutes a day. That's all it takes.\n\n#EyeTraining #30DayChallenge #Axeo #VisionImprovement #EyeHealth",
+      "image": "exercises.png", "cta": "Start your journey — link in bio"
+    },
+    {
+      "id": "W1-FRI-01", "day": "Friday", "date": "2026-04-03", "time": "12:00",
+      "format": "carousel",
+      "caption": "Weekend binge incoming? Protect your eyes first.\n\nBefore Netflix:\n1. Palming (60 seconds)\n2. Focus Shift (30 seconds)\n3. Set a 20-minute break reminder\n\nYour Friday eyes will thank you Monday.\n\n#WeekendVibes #EyeCare #NetflixAndChill #Axeo #ScreenTime",
+      "image": "exercises.png", "cta": "Free exercises at axeo.vision"
+    },
+    {
+      "id": "W1-FRI-02", "day": "Friday", "date": "2026-04-03", "time": "18:00",
+      "format": "reel",
+      "caption": "Less than your daily coffee. Better for your eyes.\n\nAxeo Premium:\n- Weekly: $2.99\n- Monthly: $5.99\n- Annual: $34.99 (best value)\n- Lifetime: $89.99\n\n7-day free trial. Cancel anytime.\n\n#Axeo #EyeTraining #HealthApp #VisionCare #FitnessTech",
+      "image": "pricing.png", "cta": "Start free trial — link in bio"
+    },
+    {
+      "id": "W1-SAT-01", "day": "Saturday", "date": "2026-04-04", "time": "12:00",
+      "format": "reel",
+      "caption": "Can you read the smallest line? Test your vision right now.\n\nThe Snellen chart has been the gold standard since 1862.\n\nOur digital version is calibrated for your screen.\n\nFree. No signup. 2 minutes.\n\n#SnellenChart #VisionTest #EyeExam #Axeo #EyeHealth",
+      "image": "snellen.png", "cta": "axeo.vision/test/snellen"
+    },
+    {
+      "id": "W1-SAT-02", "day": "Saturday", "date": "2026-04-04", "time": "18:00",
+      "format": "static-image",
+      "caption": "Your eye muscles are the most active muscles in your body.\n\nThey make 100,000+ movements per day.\n\nBut when did you last train them?\n\n17 exercises. 6 categories. 5 minutes a day.\n\n#EyeFacts #EyeHealth #Axeo #FitnessMotivation #VisionCare",
+      "image": "homepage.png", "cta": "Train at axeo.vision"
+    },
+    {
+      "id": "W1-SUN-01", "day": "Sunday", "date": "2026-04-05", "time": "12:00",
+      "format": "carousel",
+      "caption": "Week 1 recap — what you learned about your eyes:\n\n- Blink rate drops 60% on screens\n- 1 in 12 men have color vision deficiency\n- Eye exercises ARE backed by research\n- Blue light glasses don't prevent damage\n- The 20-20-20 rule actually works\n\nStart Week 2 strong.\n\n#WeeklyRecap #EyeHealth #Axeo #VisionCare #DigitalWellness",
+      "image": "homepage.png", "cta": "axeo.vision"
+    },
+    {
+      "id": "W1-SUN-02", "day": "Sunday", "date": "2026-04-05", "time": "18:00",
+      "format": "reel",
+      "caption": "Sunday reset: 3-minute eye relaxation routine.\n\n1. Close eyes, breathe deeply (30s)\n2. Palming — warm hands over eyes (60s)\n3. Slow figure-8 eye movement (30s)\n4. Look out the window at the farthest point (30s)\n5. Blink softly 20 times (30s)\n\nYou just gave your eyes a spa day.\n\n#SundayReset #SelfCare #EyeCare #Axeo #Wellness",
+      "image": "exercises.png", "cta": "Full routines at axeo.vision"
+    }
+  ]
+}
