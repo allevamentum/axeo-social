@@ -1,0 +1,85 @@
+{
+  "day": "Wednesday",
+  "week": 2,
+  "posts": [
+    {
+      "id": "W2-WED-01",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "reel-15s",
+      "hook": "Children are getting myopia 2 years earlier than they did in the 90s.",
+      "caption": "Kids are going nearsighted younger and faster than ever.\n\n- Average onset of myopia: 2 years earlier than 1990\n- Children spending 7+ hours/day on screens\n- Less than 1 hour of outdoor time per day for most school children\n\nOutdoor light is protective. Screen time is a risk factor.\n\nHelp kids understand their eye health early.\n\nFree tools at axeo.vision\n\n#KidsEyeHealth #ChildMyopia #ScreenTime #Axeo #AxeoVision #ParentingTips #EyeHealth",
+      "visual_notes": "Stat cards — NO PEOPLE. Timeline showing myopia onset age shifting earlier. Concerned but empowering tone.",
+      "video_prompt": "Runway Gen-4: Fast-cut stat card sequence. NO PEOPLE. CARD 1 (2.5s): bold white '2 YEARS EARLIER' on dark background, teal subtitle 'myopia onset age vs. 1990'. CARD 2 (2.5s): '7+ HOURS' in white, amber subtitle 'daily screen time for school children'. CARD 3 (2.5s): '< 1 HOUR' in amber, white subtitle 'outdoor time daily for most kids'. Between cards: intercut with (a) macro shot of a children's tablet screen glowing in darkness — NO CHILD VISIBLE, just the device, and (b) a 2-second shot of bright sunlight filtering through leaves in a park, no people. End (3s): the two contrasting shots side by side — dark screen glow vs bright outdoor light — with text 'Which wins in your home?' Urgent but empowering tone. 9:16. 14 seconds.",
+      "cta": "Link in bio — eye health starts early"
+    },
+    {
+      "id": "W2-WED-02",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "education",
+      "format": "reel-30s",
+      "hook": "The convergence exercise — the one your optometrist actually prescribes.",
+      "caption": "Convergence insufficiency affects 1 in 10 people.\n\nSymptoms: headaches, double vision, losing your place when reading.\n\nThe fix: Pencil Push-Up exercise (optometrists actually prescribe this).\n\nHow to do it:\n1. Hold a pencil at arm's length\n2. Focus on the tip\n3. Slowly bring it toward your nose\n4. Stop when you see double\n5. Push back out. Repeat 20x.\n\nGuided version free on Axeo Premium.\n\naxeo.vision\n\n#Convergence #EyeExercise #Axeo #AxeoVision #PencilPushUp #EyeHealth #Optometrist",
+      "visual_notes": "Demonstration of pencil push-up exercise. NO PEOPLE. Anatomical overlay showing eye convergence. Medical credibility — show optometrist context. Clear how-to format.",
+      "video_prompt": "Runway Gen-4 / Kling AI: Three-part sequence. NO PEOPLE. PART 1 (8s): extreme close-up of a yellow pencil tip held vertically against a white background. The pencil slowly moves toward camera until nearly filling the frame. Shallow depth of field — pencil sharp, background creamy white. Fingertips visible only at extreme bottom edge of frame (no arm, no face, no wrist context). Slow, deliberate movement, 1 rep. PART 2 (8s): animated top-down medical diagram — two stylized eye icons (no face, no head — just eyes) with dotted convergence lines drawing inward toward a glowing orange focal point as a pencil graphic approaches from above. Teal eyes, orange focal point, dark navy background. Lines animate smoothly. PART 3 (8s): screen recording of Axeo convergence exercise interface. 9:16. 28 seconds total.",
+      "cta": "Link in bio — guided version free trial"
+    },
+    {
+      "id": "W2-WED-03",
+      "platform": "instagram",
+      "time": "19:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Day 3 of Week 2 — are you keeping up with your eye exercises?",
+      "caption": "Weekly check-in! How are your eyes feeling this week?\n\nDrop a comment: how many days have you done your eye exercises this week? 🏆",
+      "visual_notes": "Instagram Story with emoji slider from 'eyes on fire' to 'sparkling fresh'. Wednesday hump day energy. Brand colors. Weekly challenge progress tracker design.",
+      "cta": "Keep going — axeo.vision/exercise"
+    },
+    {
+      "id": "W2-WED-04",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Kids are getting myopia 2 years earlier than in the 90s. Screens are why.",
+      "caption": "Childhood myopia crisis:\n- Onset: 2 years earlier vs 1990s\n- Screen time: 7+ hours/day for school kids\n- Outdoor time: less than 1 hour\n\nYour kids' eyes need outdoor light. Every day.\n\n#KidsHealth #Myopia #ScreenTime #Axeo #HealthTok #Parenting #EyeHealth",
+      "visual_notes": "Alarming stats. Child with glasses imagery. Statistics appear dramatically. Call to action about outdoor time.",
+      "cta": "Link in bio — free eye health tools"
+    },
+    {
+      "id": "W2-WED-05",
+      "platform": "tiktok",
+      "time": "18:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "The pencil push-up — the exercise optometrists actually prescribe.",
+      "caption": "This is a real optometrist-prescribed exercise for convergence insufficiency.\n\nPencil Push-Up:\n1. Pencil at arm's length\n2. Focus on tip\n3. Bring toward nose slowly\n4. Stop at double vision\n5. Push back. 20 reps.\n\nAffects 1 in 10 people. Most don't know they have it.\n\nGuided version: axeo.vision (Premium, free trial)\n\n#PencilPushUp #Convergence #Optometrist #Axeo #EyeExercise #HealthTok #EyeHealth",
+      "visual_notes": "Demonstration with clean overhead angle. Anatomical diagram showing eye convergence. Professional but accessible. Optometrist credibility overlay.",
+      "cta": "Link in bio — guided exercises"
+    },
+    {
+      "id": "W2-WED-06",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Convergence insufficiency: the vision problem no one talks about.",
+      "caption": "Convergence insufficiency affects 1 in 10 people.\n\nMost people with it don't know.\n\nSymptoms:\n- Headaches when reading\n- Words moving on the page\n- Eye fatigue after 20+ minutes of near work\n- Occasional double vision\n\nOften misdiagnosed as dyslexia, ADHD, or just 'not a reader'.\n\nTreatment: vision therapy (guided exercises). No surgery. No glasses required.\n\nFree awareness test + exercises at axeo.vision\n\n#ConvergenceInsufficiency #VisionTherapy #Axeo #EyeHealth #LearningDifferences",
+      "visual_notes": "Educational explainer. Show reading scenario with simulated convergence issues. Medical but relatable. Personal story element possible.",
+      "cta": "Free tools — link in description"
+    },
+    {
+      "id": "W2-WED-07",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "media-post",
+      "hook": "Convergence insufficiency: affects 1 in 10 people, often misdiagnosed as dyslexia or ADHD.",
+      "caption": "Convergence insufficiency affects ~10% of people.\n\nSymptoms:\n- Headaches reading or on screens\n- Words that 'move' on the page\n- Eye fatigue in under an hour\n\nMostly treated with vision therapy (exercises). Often mistaken for learning disabilities.\n\nAwareness matters. axeo.vision",
+      "visual_notes": "Infographic: convergence insufficiency stats + symptom list. Clean design.",
+      "cta": "axeo.vision"
+    }
+  ]
+}

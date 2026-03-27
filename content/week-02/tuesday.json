@@ -1,0 +1,86 @@
+{
+  "day": "Tuesday",
+  "week": 2,
+  "posts": [
+    {
+      "id": "W2-TUE-01",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "reel-15s",
+      "hook": "Blue light glasses: worth it, or a $50 placebo?",
+      "caption": "The science on blue light glasses:\n\n✓ Block some high-energy blue light\n✗ No clinical evidence they reduce eye strain\n✗ Placebo effect in most studies\n\nWhat actually reduces digital eye strain:\n→ The 20-20-20 rule (done properly)\n→ Proper screen distance (arm's length)\n→ Structured exercise breaks\n→ Lubricating eye drops for dry eyes\n\nSave your $50.\n\nFree evidence-based tools: axeo.vision\n\n#BlueLightGlasses #EyeStrain #EyeHealth #Axeo #AxeoVision #DigitalEyeStrain #DebunkingMyths",
+      "visual_notes": "Side-by-side: blue light glasses vs actual solutions. Fact-check style with sources. Scientific but accessible. Credibility-first aesthetic.",
+      "video_prompt": "Runway Gen-4: Split-screen comparison on dark background. NO PEOPLE. LEFT (5s): a pair of blue-light glasses resting on a desk, cool blue screen glow behind them. White label fades in: 'BLUE LIGHT GLASSES'. Then three red ✗ bullet points appear below: 'No clinical evidence', 'AAO doesn't recommend', 'Placebo in most studies'. RIGHT (5s): clean teal checklist on dark background. Label: 'WHAT ACTUALLY WORKS'. Three teal ✓ points appear: '20-20-20 rule', 'Arm's length distance', 'Structured breaks'. Thin vertical white divider between panels. Crisp, medical-credibility aesthetic. 9:16. 14 seconds.",
+      "cta": "Link in bio — evidence-based approach"
+    },
+    {
+      "id": "W2-TUE-02",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "Most people have never done a proper Snellen test. Here's how it works.",
+      "caption": "The Snellen chart isn't just a random letter grid.\n\nHere's the science:\n\n- Each row is calibrated for a specific distance\n- 20/20 means you see at 20 feet what a 'normal' eye sees at 20 feet\n- 20/40 means your eye needs 20 feet to see what others see at 40\n\nMost people haven't had their vision tested since school.\n\nFull Snellen test — free, instant, no sign-up:\naxeo.vision/test\n\n#SnellenTest #VisionTest #Axeo #AxeoVision #EyeExam #20x20 #VisionCare",
+      "visual_notes": "Animated Snellen chart explanation. Show distance annotations, normal range markers. Transition to Axeo test interface. Educational, clean, medical credibility.",
+      "video_prompt": "Runway Gen-4: Two-part sequence. NO PEOPLE. PART 1 (10s): A Snellen eye chart fills the frame, softly lit on a white clinical wall. Chart begins blurry (simulated myopic blur — heavy gaussian, soft edges), then slowly sharpens to crisp clarity over 6 seconds as if optically corrected. Subtle lens flare as sharpness peaks. Hold sharp for 2s. PART 2 (8s): animated infographic overlay on dark background — the same chart with two rows highlighted: top row annotated '20 ft / person sees this' in teal, lower row '40 ft / normal eye sees this' in white. A teal arrow shows the 20-foot viewing distance. Clean, medical-grade typography. End with 'Take your free test' fade-in. 9:16. 25 seconds.",
+      "cta": "Link in bio — test your vision"
+    },
+    {
+      "id": "W2-TUE-03",
+      "platform": "instagram",
+      "time": "19:00",
+      "pillar": "conversion",
+      "format": "reel-30s",
+      "hook": "6 exercises free. 17 total. Here's what you're missing.",
+      "caption": "Axeo's 6 free exercises:\n→ Palming\n→ Focus Shifting\n→ Figure Eight\n→ Snellen Test\n→ Ishihara Color Test\n→ Eye Stretching\n\nWhat's unlocked with Premium:\n→ 11 more exercises (convergence, divergence, tracking, peripheral...)\n→ 3 structured programs\n→ ARKit face tracking guidance\n→ Progress tracking\n\nFrom $2.92/month. 7-day free trial.\n\naxeo.vision/#pricing\n\n#Axeo #AxeoVision #EyeExercise #VisionTraining #Premium #HealthApp #EyeCare",
+      "visual_notes": "Free tier shown with lock icons on premium items. Satisfying unlock animation transitioning to full premium view. Premium feels achievable — not gatekept. Clean comparison UI.",
+      "video_prompt": "Intro B-roll only (4s): Kling AI: an iPhone floating in a dark space, rotating slowly at 15 degrees. NO PEOPLE. Screen shows a clean app UI with gold padlock icons on exercise tiles. The padlocks glow gold, then one by one transform into open teal unlock icons with a soft light-burst effect. Dark background, product-reveal aesthetic, subtle ambient glow. 9:16. 4 seconds. Then cut directly to screen recording of axeo.vision pricing/exercise unlock flow (no AI needed for main segment).",
+      "cta": "Link in bio — start free trial"
+    },
+    {
+      "id": "W2-TUE-04",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "education",
+      "format": "video-15s",
+      "hook": "Blue light glasses: the $50 placebo most people are buying.",
+      "caption": "Clinical reality: no evidence blue light glasses reduce eye strain.\n\nWhat does reduce strain:\n→ 20-20-20 rule\n→ Proper distance\n→ Structured breaks\n\nSave the money. Use the free tools: axeo.vision\n\n#BlueLightGlasses #EyeHealth #Axeo #HealthTok #ScienceExplained #Debunked",
+      "visual_notes": "Mock purchase of blue light glasses, then reveal that studies show no benefit. Fact-check overlay. Quick, punchy delivery.",
+      "cta": "Link in bio — actually effective"
+    },
+    {
+      "id": "W2-TUE-05",
+      "platform": "tiktok",
+      "time": "18:00",
+      "pillar": "demo",
+      "format": "video-30s",
+      "hook": "I took the Snellen test on my phone. Here's my score — and what it means.",
+      "caption": "20/20 vision doesn't mean perfect eyes.\n\nIt means your eyesight matches the standard.\n\nMy score: 20/25 — slightly below standard, common for heavy screen users.\n\nTake your own free test: axeo.vision/test\n\nNo eye chart. No appointment. No cost.\n\n#SnellenTest #VisionTest #Axeo #EyeTest #HealthTok #20x20 #VisionCheck",
+      "visual_notes": "Personal POV: taking the Snellen test on phone. Results reveal. Explain the score meaning simply. Build-in-public personal touch.",
+      "cta": "Link in bio — test your vision free"
+    },
+    {
+      "id": "W2-TUE-06",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "I spent $200 researching whether blue light glasses work. Here's what I found.",
+      "caption": "Spent way too much researching blue light glasses.\n\nKey findings:\n- Blue light IS real and emitted by screens\n- Evidence for harm to eyes: inconclusive\n- American Academy of Ophthalmology: doesn't recommend blue light glasses for eye strain\n- Placebo studies show similar improvement with clear lenses\n\nWhat the AAO DOES recommend: 20-20-20, proper lighting, regular breaks\n\nAll of which are free.\n\naxeo.vision/exercise\n\n#BlueLightScience #EyeHealth #Axeo #AAO #EyeStrain #HealthTech",
+      "visual_notes": "Research breakdown format. Show AAO citation. Balanced, credible. Not dismissive — just accurate.",
+      "cta": "Free evidence-based exercises — link in description"
+    },
+    {
+      "id": "W2-TUE-07",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "text-post",
+      "hook": "Blue light glasses: the AAO's position vs. what the marketing says.",
+      "caption": "The AAO (American Academy of Ophthalmology) does not recommend blue light glasses for eye strain.\n\nTheir recommended interventions:\n→ 20-20-20 rule\n→ Proper screen distance\n→ Adequate room lighting\n→ Regular exercise breaks\n\nAll free. All evidence-based.\n\naxeo.vision/exercise",
+      "visual_notes": "Text post with AAO citation. May include comparison chart.",
+      "cta": "axeo.vision/exercise"
+    }
+  ]
+}

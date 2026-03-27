@@ -1,0 +1,86 @@
+{
+  "day": "Monday",
+  "week": 2,
+  "posts": [
+    {
+      "id": "W2-MON-01",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "reel-15s",
+      "hook": "75% of people need glasses by 40. Most of them could have slowed it down.",
+      "caption": "Myopia is now an epidemic.\n\n- 1 in 3 people globally are nearsighted\n- By 2050: projected to be 1 in 2\n- Screen time is the #1 modifiable risk factor\n\nThe good news: you can slow it down.\n\nStructured eye exercises + screen breaks = measurable difference.\n\nFree tools at axeo.vision\n\n#Myopia #EyeHealth #Axeo #AxeoVision #VisionCare #ScreenTime #EyeExercise",
+      "visual_notes": "Bold statistic cards appearing one by one. Dark background, accent color text. Alarming but hopeful tone. End on Axeo logo with 'start training today'.",
+      "video_prompt": "Runway Gen-4: Animated stat cards on dark background (#0D0E14). NO PEOPLE. CARD 1: bold teal (#00C9A7) '1 IN 3' counts up, white subtitle 'globally nearsighted'. CARD 2: '1 IN 2' in teal, subtitle 'projected by 2050'. CARD 3: 'SCREEN TIME' in amber, subtitle '#1 modifiable risk factor'. Each card: 0.3s scale-in, 2s hold, hard-cut. Between cards: macro shot of a phone screen glowing cold blue in darkness (no person). End: Axeo teal logo on dark background, 1.5s hold. Urgent, clinical tone. 9:16 vertical. Total: 14 seconds.",
+      "cta": "Link in bio — start free"
+    },
+    {
+      "id": "W2-MON-02",
+      "platform": "instagram",
+      "time": "12:00",
+      "pillar": "education",
+      "format": "reel-30s",
+      "hook": "The 20-20-20 rule — but the version that actually works.",
+      "caption": "You've heard of 20-20-20. Most people do it wrong.\n\nThe real version:\n\nEvery 20 minutes →\nLook at something 20 FEET away (not across the room — outside a window)\nFor 20 seconds (count out loud)\n+ Blink 5 times deliberately\n\nThe blink reset matters. Blink rate drops 80% on screens.\n\nSet a real timer. Do it now.\n\nFree reminders built into Axeo: axeo.vision\n\n#2020Rule #EyeStrain #Axeo #AxeoVision #DigitalEyeStrain #EyeHealth #OfficeLife",
+      "visual_notes": "Step-by-step tutorial style. Show person at desk, timer going off, demonstrating the proper 20-20-20. Emphasize the window/outdoor gaze and blink count. Clean instructional aesthetic.",
+      "video_prompt": "Runway Gen-4: Three-part sequence. NO PEOPLE throughout. PART 1 (8s): cinematic wide shot from inside a dark room looking through a large window at a bright green park. Soft focus on window frame, sharp on outdoor scene. A countdown timer UI overlay reads '20 seconds' and ticks down. Slow gentle zoom out from window. PART 2 (7s): medical illustration of a human eye's ciliary muscle (teal highlight on dark navy background) slowly releasing tension — the muscle visibly unclenches. Subtle orange glow fades as tension releases. PART 3 (5s): clean desk surface with phone showing axeo.vision, warm ambient light. Calm, restorative mood throughout. 9:16. 20 seconds total.",
+      "cta": "Link in bio"
+    },
+    {
+      "id": "W2-MON-03",
+      "platform": "instagram",
+      "time": "19:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "This is what ARKit eye tracking looks like inside a web app.",
+      "caption": "We built ARKit face tracking into a browser-based eye exercise app.\n\nNo download. No app store. Just open axeo.vision on your iPhone and your face becomes the controller.\n\nThe tracking guides your exercises in real time — making sure your eye movement is actually hitting the right targets.\n\nThis is what the future of vision care looks like.\n\naxeo.vision/exercise\n\n#ARKit #FaceTracking #Axeo #AxeoVision #WebApp #HealthTech #BuildInPublic #EyeTracking",
+      "visual_notes": "Screen recording of ARKit tracking in action. Show face mesh overlay, then transition to exercise with real-time tracking. Cinematic music. Tech-forward aesthetic. Slow motion moments.",
+      "video_prompt": "B-roll intro only (3s before screen recording): Kling AI: macro shot of an iPhone displaying a green face-mesh AR grid on its screen. NO PEOPLE IN FRAME — only the phone resting on a dark surface. The mesh pulses gently with green light. Dark room, cool blue ambient glow. Slow push-in toward the screen. Cinematic, techy. 9:16. Then cut to screen recording of axeo.vision ARKit exercise interface (record directly — no AI needed for the main segment).",
+      "cta": "Link in bio — try it free"
+    },
+    {
+      "id": "W2-MON-04",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "1 in 3 people are myopic. In 25 years it'll be 1 in 2.",
+      "caption": "Myopia is doubling every generation.\n\nScreens are the accelerant.\n\nYou can slow it down. Guided exercises + consistent breaks.\n\nFree: axeo.vision\n\n#Myopia #EyeHealth #Axeo #HealthTok #VisionCrisis #ScreenDamage",
+      "visual_notes": "Dramatic counter showing 33% → 50% projection. Map showing global spread. Urgent energy. Cut to exercise solution.",
+      "cta": "Link in bio — free exercises"
+    },
+    {
+      "id": "W2-MON-05",
+      "platform": "tiktok",
+      "time": "18:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "The 20-20-20 rule most people get wrong.",
+      "caption": "20-20-20: Every 20 min, look 20 feet away, for 20 seconds.\n\nThe problem: most people look at the wall 5 feet away.\n\nYou need to look OUTSIDE. Out a window. To reset your ciliary muscle (the one that cramps from near focus).\n\nFree reminder system: axeo.vision\n\n#2020Rule #EyeStrain #Axeo #EyeHealth #HealthTok #WorkFromHome #OfficeLife",
+      "visual_notes": "Split screen: person looking at wall (wrong) vs window (right). Anatomy diagram of ciliary muscle. Educational energy. Quick cuts.",
+      "cta": "Link in bio — free reminders"
+    },
+    {
+      "id": "W2-MON-06",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "shock",
+      "format": "video-30s",
+      "hook": "Myopia doubled in 25 years. Here's why — and how to slow it.",
+      "caption": "Why is myopia doubling every generation?\n\nResearchers have two theories:\n1. Near work hypothesis — close focus for hours strains the eye's growth\n2. Outdoor light theory — UV light triggers proper eye development; we get too little\n\nBoth are affected by our screen-heavy lives.\n\nWhat helps: structured breaks, outdoor time, guided exercises.\n\nAxeo's programs are built around this research.\n\nFree at axeo.vision\n\n#Myopia #VisionScience #Axeo #EyeHealth #IndoorGeneration #Nearsighted",
+      "visual_notes": "Scientific explanation style. Diagram of myopic eye elongation. Research stats. Hopeful ending showing preventive strategies.",
+      "cta": "Free program — link in description"
+    },
+    {
+      "id": "W2-MON-07",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "media-post",
+      "hook": "Myopia rates doubled in 25 years. By 2050 it'll affect half of all humans.",
+      "caption": "Myopia rates doubled in 25 years. By 2050 it could affect 50% of humans.\n\nThe main driver: more time indoors, less outdoor light, more near-work.\n\nScreens didn't cause myopia. But they accelerate it.\n\nSlowing it down: axeo.vision/exercise",
+      "visual_notes": "Line chart showing myopia rate growth 1999-2026 with 2050 projection. Clean, alarming visual.",
+      "cta": "axeo.vision/exercise"
+    }
+  ]
+}
