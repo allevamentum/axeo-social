@@ -1,0 +1,88 @@
+{
+  "day": "Monday",
+  "week": 3,
+  "posts": [
+    {
+      "id": "W3-MON-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Your eye doctor tests 20/20 acuity. But almost no one checks this — and it's the first thing to go.",
+      "caption": "Most people pass their vision test with 20/20.\n\nAnd still struggle to see at night.\nStill miss low-contrast text.\nStill get headaches from gray backgrounds.\n\nContrast sensitivity is a completely separate visual skill.\n\nAnd it's not tested in a standard eye exam.\n\nFree contrast sensitivity test: axeo.vision\n\n#ContrastSensitivity #EyeHealth #VisionTest #Axeo #HealthTok #EyeCare #VisionScience",
+      "visual_notes": "Dark background. Rapid stat cards. Black-on-dark-gray text that's barely readable. Then the same text in high contrast. Medical, urgent tone.",
+      "video_prompt": "Runway Gen-4: Contrast comparison sequence. NO PEOPLE. CARD 1 (4s): White text '20/20' on dark navy background — large, clear. CARD 2 (4s): A grey gradient rectangle with barely-visible text reading 'Can you read this?' in slightly lighter grey — low contrast, straining. CARD 3 (5s): Same rectangle, text now bright white, instantly readable. Teal highlight around the contrast difference. Clinical, urgent mood. 9:16. 13 seconds.",
+      "cta": "Link in bio — free contrast sensitivity test"
+    },
+    {
+      "id": "W3-MON-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Why people with 20/20 vision still crash at night — contrast sensitivity explained.",
+      "caption": "Contrast sensitivity = your ability to distinguish objects from similar backgrounds.\n\nDifferent from acuity (which just tests letter sharpness).\n\nContrast sensitivity predicts:\n- Night driving safety\n- Fog navigation\n- Reading on screens\n- Detecting faces in dim light\n\nIt declines earlier than acuity.\n\nThe standard Snellen chart can't catch it.\n\nAxeo tests contrast sensitivity in under 2 minutes:\naxeo.vision/test\n\n#ContrastSensitivity #NightDriving #EyeHealth #Axeo #AxeoVision #VisionScience #Optometry",
+      "visual_notes": "Side-by-side comparison. Left: crisp sharp Snellen chart (acuity). Right: contrast sensitivity — gradient bars from white to near-white, subtle differences. Medical explainer format. Dark background.",
+      "video_prompt": "Runway Gen-4: Educational split-screen. NO PEOPLE. LEFT PANEL (throughout): Snellen eye chart on clinical white wall, labeled 'Acuity Test — letter sharpness'. RIGHT PANEL (throughout): Five horizontal gradient bars ranging from pure white to near-white, labeled 'Contrast Test — background detection'. Teal arrows highlight each panel in turn. FINAL FRAME (6s): dark background, text 'One test you've taken. One you haven't.' in white. Clean clinical aesthetic. 9:16. 28 seconds.",
+      "cta": "Link in bio — free contrast sensitivity test"
+    },
+    {
+      "id": "W3-MON-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "We added a contrast sensitivity test to axeo.vision. Here's what it looks like.",
+      "caption": "Contrast sensitivity is the vision skill that predicts night driving, fog safety, and screen readability.\n\nIt's not tested in a standard eye exam.\nIt's the first visual skill to decline with age.\n\nAxeo's test takes 90 seconds:\n- You see horizontal gray bars\n- Pick the one that's slightly lighter\n- Repeat 5 times per spatial frequency\n- Get an instant sensitivity score\n\nFree at axeo.vision — no signup, works in any browser.\n\n#ContrastSensitivity #VisionTest #EyeHealth #Axeo #AxeoVision #NightDriving #EyeCare",
+      "visual_notes": "Screen recording of axeo.vision contrast sensitivity test. Clean white UI. Gray gradient bars. Results screen showing sensitivity score across spatial frequencies. Professional, clinical look.",
+      "video_prompt": "Runway Gen-4 / Screen recording hybrid: Contrast test demo. NO PEOPLE. PART 1 (8s): Clean white browser interface fills frame — the Axeo contrast sensitivity test page. Six rows of horizontal gray bars appear. Teal cursor highlights one row. PART 2 (10s): A 'slightly lighter' bar is identified — teal ring appears around it. Score fills in. PART 3 (8s): Results graph — a curved line plotting contrast sensitivity across spatial frequencies, with a teal dot marking the user's score vs the standard range. Clean, medical aesthetic. 9:16. 28 seconds.",
+      "cta": "Link in bio — free contrast test at axeo.vision"
+    },
+    {
+      "id": "W3-MON-04",
+      "platform": "instagram",
+      "time": "17:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 3, Day 1 — have you ever taken a contrast sensitivity test?",
+      "caption": "Most people haven't.\n\nIt's not part of a standard eye exam.\n\nTake ours free — 90 seconds, no signup:\naxeo.vision/test\n\n#EyeHealth #Axeo #VisionTest",
+      "visual_notes": "Instagram Story with Axeo dark teal brand. Poll: 'Yes — I know my score 🎯' vs 'No — first I'm hearing of it 👀'. Simple, clean, brand-consistent.",
+      "video_prompt": "",
+      "cta": "Take the free test — axeo.vision"
+    },
+    {
+      "id": "W3-MON-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "shock",
+      "format": "video-30s",
+      "hook": "Why night driving gets harder as you age — it's not your glasses.",
+      "caption": "As you age, the first thing to decline isn't letter sharpness.\n\nIt's contrast sensitivity.\n\n→ Headlights look like halos\n→ Lane markings disappear in rain\n→ Gray text on white backgrounds strains your eyes\n\nContrast sensitivity peaks at age 20 and drops steadily.\n\nMost optometrists don't test for it until there's a complaint.\n\nYou can test yourself for free in 2 minutes at axeo.vision\n\n#NightDriving #ContrastSensitivity #EyeHealth #Axeo #AgingEyes #VisionTest #EyeCare",
+      "visual_notes": "Night driving POV without people. Rain-soaked road. Headlight halos. Split-screen: normal vs low contrast sensitivity simulation. Dark, moody, urgent.",
+      "video_prompt": "",
+      "cta": "Free test — link in description"
+    },
+    {
+      "id": "W3-MON-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "thread",
+      "hook": "You passed your 20/20 test. But do you have good contrast sensitivity? Most people have no idea what this means. A thread:",
+      "caption": "1/ Contrast sensitivity is your ability to detect differences between objects and their backgrounds. It's a completely separate visual skill from acuity.\n\n2/ The standard Snellen test (20/20) only measures letter sharpness at high contrast — black letters on a white background. That's the easy version.\n\n3/ Real life is full of low-contrast situations: fog, rain, dim rooms, gray text, faces at dusk. This is where contrast sensitivity matters.\n\n4/ Contrast sensitivity typically peaks around age 20. It declines steadily with age — often before acuity changes are detectable.\n\n5/ Conditions that impair contrast sensitivity first: early cataracts, glaucoma, multiple sclerosis, diabetic retinopathy. It's a sensitive early marker.\n\n6/ The good news: axeo.vision has a free contrast sensitivity test. Takes 90 seconds. No signup.\n\nShare this if you learned something new.",
+      "visual_notes": "Text thread with optional infographic showing contrast sensitivity curve vs acuity over age. Teal/dark Axeo brand colors.",
+      "cta": "axeo.vision/test"
+    },
+    {
+      "id": "W3-MON-07",
+      "platform": "linkedin",
+      "time": "18:00",
+      "pillar": "education",
+      "format": "article",
+      "hook": "The vision test that predicts workplace safety — and almost no company tests for it.",
+      "caption": "Your annual vision benefits include an acuity test.\n\nBut not a contrast sensitivity test.\n\nFor employees who:\n→ Drive as part of their role\n→ Work in low-light environments\n→ Operate heavy machinery\n→ Work night shifts\n\n...contrast sensitivity is the relevant metric, not 20/20.\n\nContrast sensitivity predicts:\n- Night driving performance\n- Reaction time in fog/rain\n- Detection of low-contrast hazards\n- Screen readability in varied lighting\n\nIt declines with age, fatigue, and several health conditions — often silently, well before acuity changes.\n\nA contractor of ours identified two team members with clinically low contrast sensitivity during a routine screening. Neither had failed their standard vision test.\n\nAxeo includes a free contrast sensitivity screening: axeo.vision\n\n#WorkplaceSafety #EmployeeHealth #EyeHealth #ContrastSensitivity #Optometry #HR",
+      "visual_notes": "Professional LinkedIn post. Workplace safety angle. Stats-led. B2B positioning.",
+      "cta": "axeo.vision — free vision screening tools"
+    }
+  ]
+}

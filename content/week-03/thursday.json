@@ -1,0 +1,87 @@
+{
+  "day": "Thursday",
+  "week": 3,
+  "posts": [
+    {
+      "id": "W3-THU-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "This 30-second grid test can detect macular degeneration before any other symptom appears.",
+      "caption": "The Amsler grid.\n\nA 10×10 grid of straight lines with a dot in the center.\n\nHow to use it:\n1. Cover one eye\n2. Stare at the center dot\n3. Note if any lines look wavy, bent, or missing\n\nWavy lines = potential early macular degeneration.\n\nAMD affects 200 million people worldwide.\nIt's the #1 cause of vision loss in adults over 50.\n\nFree Amsler grid test: axeo.vision\n\n#MacularDegeneration #AmslerGrid #EyeHealth #Axeo #HealthTok #VisionTest #EyeCare",
+      "visual_notes": "Amsler grid fills the screen. Lines are first straight, then a section warps and distorts. Urgent but clinical tone.",
+      "video_prompt": "Runway Gen-4: Amsler grid distortion reveal. NO PEOPLE. OPENING (5s): Clean Amsler grid fills the entire frame — perfect straight white grid lines on black background, small dot in exact center. Calm, geometric. MIDDLE (4s): A region in the upper-right quadrant slowly begins to distort — lines warp and curve outward, like a heat shimmer. The center dot remains fixed. Teal ring appears around the distorted zone. CLOSING (4s): Text overlay appears: 'Wavy lines = potential early AMD'. Grid returns to normal. Axeo teal glow on center dot. Urgent clinical tone. 9:16. 13 seconds.",
+      "cta": "Link in bio — free Amsler grid test"
+    },
+    {
+      "id": "W3-THU-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Age-related macular degeneration: what it is, who gets it, and the one free test that catches it early.",
+      "caption": "AMD = Age-related macular degeneration.\n\nThe macula is the center of your retina — responsible for sharp, central vision (reading, faces, driving).\n\nAMD destroys it. Slowly. Then fast.\n\nTwo types:\nDry AMD: gradual photoreceptor loss (90% of cases)\nWet AMD: abnormal blood vessel growth — faster and more severe\n\nRisk factors:\n- Age over 50\n- Smoking (doubles risk)\n- Family history\n- Light eyes (higher UV exposure)\n- High blood pressure\n\nThe Amsler grid catches early distortion before symptoms become severe.\n\nFree Amsler test: axeo.vision\n\n#MacularDegeneration #AMD #EyeHealth #Axeo #AxeoVision #RetinalHealth #Optometry",
+      "visual_notes": "Retina anatomy diagram. Macula highlighted. Dry vs wet AMD progression shown. Amsler grid test final slide. Educational, medical tone.",
+      "video_prompt": "Runway Gen-4: AMD educational sequence. NO PEOPLE. PART 1 (10s): Top-down diagram of the back of the eye — retina visible, macula highlighted in amber at center. Small circle labeled 'Macula' pulses. Then a slow deterioration animation: the amber fades and goes gray at the center. Text: 'Dry AMD — gradual photoreceptor loss'. PART 2 (10s): Same diagram now shows bright red branching vessels growing from the center — labeled 'Wet AMD — abnormal blood vessel growth'. A red pulse radiates from the vessels. PART 3 (8s): Amsler grid appears. The grid starts perfect, then waves distort one quadrant. Text: 'What wet AMD patients see early'. Final: 'Test free at axeo.vision'. 9:16. 28 seconds.",
+      "cta": "Link in bio — free Amsler grid test"
+    },
+    {
+      "id": "W3-THU-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "The Amsler grid test — it takes 30 seconds and could save your central vision.",
+      "caption": "The Amsler grid is the only self-administered test for macular degeneration.\n\nYou don't need any equipment — just a screen.\n\nHow Axeo's Amsler test works:\n1. Cover your left eye\n2. Hold screen 12–14 inches away\n3. Look directly at the center dot\n4. Note any waviness, distortion, or missing areas\n5. Repeat with right eye\n\nAny abnormality = see an ophthalmologist immediately.\n\nAMD affects 11 million Americans. Regular self-testing is the only way to catch changes early between eye appointments.\n\nFree at axeo.vision — no signup required.\n\n#AmslerGrid #MacularDegeneration #EyeHealth #Axeo #AxeoVision #RetinalHealth #VisionTest",
+      "visual_notes": "Screen recording of Axeo Amsler grid test. Grid displayed. Instructions step by step. Results screen. Clean, clinical interface. Educational overlay text.",
+      "video_prompt": "Runway Gen-4 / Screen recording: Amsler test demo. NO PEOPLE. PART 1 (8s): Browser showing axeo.vision/test Amsler page. Clean dark interface. Amsler grid centered — perfect white grid on black. Step 1 instruction card: 'Cover your left eye'. PART 2 (10s): Test in progress — grid fills screen. A faint cursor dot at center. The test instruction shows 'Note any areas that look wavy or missing'. Teal ring indicator appears around center dot. PART 3 (8s): Results screen — two circles representing left and right eyes. One shows 'No distortion detected ✓' in teal. Below: 'Check every 2 weeks if you are over 50'. Final: 'Test free — axeo.vision'. 9:16. 28 seconds.",
+      "cta": "Link in bio — Amsler test at axeo.vision"
+    },
+    {
+      "id": "W3-THU-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 3, Day 4 — have you ever tested your macula?",
+      "caption": "The Amsler grid test takes 30 seconds.\n\nMost people over 40 have never done one.\n\nFree at axeo.vision.\n\n#EyeHealth #Axeo #MacularHealth",
+      "visual_notes": "Instagram Story with Amsler grid graphic in background (small, stylized). Poll: 'Yes — I test regularly 🎯' vs 'Never heard of it 😳'. Teal/dark brand.",
+      "video_prompt": "",
+      "cta": "Test yours — axeo.vision"
+    },
+    {
+      "id": "W3-THU-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Why people lose their central vision — and the 5 lifestyle factors that accelerate it.",
+      "caption": "Age-related macular degeneration is the leading cause of vision loss in adults over 50.\n\n200 million people worldwide are affected.\n\n5 factors that accelerate progression:\n\n1. Smoking — 2× risk increase\n2. UV exposure without protection\n3. High glycemic diet (sugar spikes damage photoreceptors)\n4. Inactivity — reduced blood flow to retina\n5. Low lutein/zeaxanthin intake (these protect the macula)\n\nThe protective factors:\n- Leafy greens (lutein/zeaxanthin)\n- Omega-3s (DHA in retinal membranes)\n- UV-blocking sunglasses\n- Regular self-testing with the Amsler grid\n\nFree test: axeo.vision\n\n#MacularDegeneration #EyeHealth #Axeo #RetinalHealth #Lutein #VisionLoss",
+      "visual_notes": "5-factor countdown cards. Dark background. Each factor with icon and brief explanation. Authoritative, educational, action-oriented.",
+      "cta": "Free test — link in description"
+    },
+    {
+      "id": "W3-THU-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "media-post",
+      "hook": "The most common cause of permanent vision loss in the developed world — and almost no one self-tests for it.",
+      "caption": "AMD (age-related macular degeneration) facts:\n\n→ #1 cause of irreversible vision loss, adults 50+\n→ 200 million affected globally\n→ Projected 300 million by 2040\n→ Dry AMD: no treatment, only slowing\n→ Wet AMD: treatable if caught early\n→ Early detection window: 3–6 months before severe symptoms\n\nThe Amsler grid test takes 30 seconds.\nYou can do it at home.\n\nFree at axeo.vision",
+      "visual_notes": "Infographic: AMD statistics with retina diagram. Dry vs wet distinction. Teal/amber color scheme. Axeo brand.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W3-THU-07",
+      "platform": "reddit",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "text-post",
+      "hook": "The Amsler grid — why everyone over 40 should be checking it weekly (with free resource)",
+      "caption": "r/EyeCare or r/optometry\n\nI want to share some information about the Amsler grid because I see a lot of questions about AMD here and this doesn't come up enough.\n\nThe Amsler grid is a simple 10×10 grid with a dot in the center. You cover one eye and stare at the dot. If lines appear wavy, bent, or missing — that's a flag for macular pathology that warrants urgent ophthalmologic evaluation.\n\nWhy it matters:\n- Wet AMD can progress from first symptoms to severe vision loss in weeks\n- The treatment (anti-VEGF injections) is effective but only when caught early\n- The treatment window is narrow — once central vision is lost, it typically doesn't return\n\nWho should test regularly:\n- Anyone over 50\n- Anyone with a family history of AMD\n- Anyone with known drusen (detected at eye exam)\n- Smokers\n\nAxeo has a free browser-based version at axeo.vision (no signup). Takes 30 seconds per eye.\n\nThis isn't a replacement for regular eye exams — but self-testing 2x per week catches changes between appointments, which is clinically recommended.\n\nHappy to answer questions.",
+      "visual_notes": "Authoritative informational text post. Optional: Amsler grid image. Clinical, helpful community tone.",
+      "cta": "axeo.vision — free Amsler test"
+    }
+  ]
+}

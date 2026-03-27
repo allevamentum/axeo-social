@@ -1,0 +1,87 @@
+{
+  "day": "Tuesday",
+  "week": 3,
+  "posts": [
+    {
+      "id": "W3-TUE-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "20/20 vision doesn't mean you can see 20/20. Here's what that number actually measures.",
+      "caption": "20/20 is not perfect vision.\n\nIt's average vision.\n\n20/20 means: at 20 feet, you see what a typical eye sees at 20 feet.\n\nSome people see 20/15. Or 20/10.\n\nAnd 20/20 tells you nothing about:\n- Night vision\n- Color perception\n- Peripheral vision\n- Depth perception\n- Contrast sensitivity\n\nFree full vision assessment: axeo.vision\n\n#VisionMyth #2020Vision #EyeHealth #Axeo #HealthTok #VisionTest #Optometry",
+      "visual_notes": "Bold myth-bust format. '20/20 = PERFECT' appears in white, then a red X slowly draws through it. New text: '20/20 = AVERAGE' appears. Rapid-fire visual.",
+      "video_prompt": "Runway Gen-4: Myth-bust sequence. NO PEOPLE. FRAME 1 (4s): Large white bold text '20/20 = PERFECT VISION' centered on dark navy background. FRAME 2 (3s): A red diagonal line slowly draws across the text — striking it through. FRAME 3 (6s): Text fades, replaced by '20/20 = AVERAGE VISION' in teal. Below in smaller white text: 'It measures letter sharpness at high contrast only'. Clean, impactful. 9:16. 13 seconds.",
+      "cta": "Link in bio — what does your vision actually score?"
+    },
+    {
+      "id": "W3-TUE-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "How to read a Snellen chart result — and what the numbers actually mean.",
+      "caption": "The Snellen chart is 160 years old. Here's how to actually read it.\n\nThe format: Distance/Distance\n\n20/20 = You see at 20ft what a typical eye sees at 20ft ✓\n20/40 = You see at 20ft what a typical eye sees at 40ft (worse)\n20/10 = You see at 20ft what a typical eye sees at 10ft (better than average)\n\nLegal driving minimum in most countries: 20/40\n\nFighter pilot requirement: 20/20 uncorrected\n\nHawks reportedly see: ~20/2\n\nMost adults: 20/20 to 20/25 with correction\n\nTest yours free: axeo.vision\n\n#SnellenChart #VisionTest #EyeHealth #Axeo #AxeoVision #VisionScience #Optometry",
+      "visual_notes": "Animated Snellen chart. Numbers grow on the chart as the fractions are explained. Clean white background. Teal annotations.",
+      "video_prompt": "Runway Gen-4: Snellen explainer. NO PEOPLE. PART 1 (8s): Snellen eye chart fills the frame on a clean white wall. Letters decrease in size from top to bottom. A teal bracket appears around the '20/20' line, labeled 'Average'. PART 2 (10s): The fraction '20/40' appears large on screen — animated: numerator '20' in white, denominator '40' in orange. Arrow diagram: '20 feet (you)' pointing left, '40 feet (standard)' pointing right. PART 3 (8s): Same diagram for '20/10' — amber numerator, teal glow, labeled 'Better than average'. Final frame: 'Your score? Test free at axeo.vision'. 9:16. 28 seconds.",
+      "cta": "Link in bio — test your Snellen score free"
+    },
+    {
+      "id": "W3-TUE-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "Full Snellen acuity test — free, in your browser, in 2 minutes.",
+      "caption": "The standard distance acuity test is now free in your browser.\n\nAxeo's Snellen test:\n✓ Calibrated to your screen size\n✓ Covers 20/200 to 20/10 range\n✓ Shows your score instantly\n✓ Saves your baseline — track changes over time\n\nWhat you'll need:\n- Your screen at arm's length (or 2-3ft away)\n- One eye covered at a time\n- Good lighting\n\nMost common result: 20/25 to 20/40 (mild myopia).\n\nFree at axeo.vision — no signup needed.\n\n#SnellenTest #VisionTest #EyeHealth #Axeo #AxeoVision #Myopia #VisionCare",
+      "visual_notes": "Screen recording of axeo.vision Snellen test flow. Clean UI. Letter rows. Result screen showing 20/20 or 20/25 score. Instructions visible. Professional.",
+      "video_prompt": "Runway Gen-4 / Screen recording: Snellen test demo. NO PEOPLE. PART 1 (8s): Browser window showing axeo.vision/test Snellen page. Calibration slider appears — screen size being set. Clean white interface. 'Cover your right eye' instruction card visible. PART 2 (10s): Letter rows appear progressively smaller. Teal cursor clicks on letter options. Progress bar fills. PART 3 (8s): Score reveal: '20/25' appears in large teal numerals on dark background. Below: 'Mild myopia range — typical for adults'. A simple graph shows where this score sits on a range. Final frame: 'Test free — axeo.vision'. 9:16. 28 seconds.",
+      "cta": "Link in bio — test your vision at axeo.vision"
+    },
+    {
+      "id": "W3-TUE-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 3, Day 2 — what's your Snellen score?",
+      "caption": "Have you tested your visual acuity this week?\n\nFree Snellen test at axeo.vision — takes 2 minutes.\n\n#EyeHealth #Axeo #VisionTest",
+      "visual_notes": "Instagram Story with score poll. Options: '20/20 or better ✓' vs '20/25 or worse — need to retest 👀'. Teal/dark Axeo brand. Clean minimal design.",
+      "video_prompt": "",
+      "cta": "Take your baseline — axeo.vision"
+    },
+    {
+      "id": "W3-TUE-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "5 things that can make your vision worse that have nothing to do with your prescription.",
+      "caption": "You can have a perfect prescription and still see poorly.\n\nFactors that impair vision beyond refractive error:\n\n1. Dehydration — tear film breaks up, blurs vision\n2. Sleep deprivation — reduces accommodation speed\n3. Screen glare — creates a luminance veil over fine detail\n4. High stress — pupil dilation from cortisol reduces depth of field\n5. Magnesium deficiency — linked to increased light sensitivity\n\nThese are all modifiable.\n\nTrack your vision weekly to notice changes early: axeo.vision\n\n#VisionHealth #EyeHealth #Axeo #NutritionEyes #DigitalEyeStrain #Optometry #EyeScience",
+      "visual_notes": "5-card rapid reveal. Each factor in bold with brief explanation. Dark background, teal accent numbers. Fast-paced, informative.",
+      "cta": "Free vision tracking — link in description"
+    },
+    {
+      "id": "W3-TUE-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "media-post",
+      "hook": "20/20 is not the top of the vision scale. It's the midpoint.",
+      "caption": "Vision acuity scale:\n\n20/200 → Legal blindness\n20/100 → Can't read a standard billboard\n20/70  → Difficulty with newspaper text\n20/40  → Legal driving minimum\n20/25  → Most corrected adults\n20/20  → 'Normal' — the baseline, not the ceiling\n20/15  → Better than average\n20/10  → Exceptional acuity\n20/5   → Theoretical max for the human eye\n\nMost people think 20/20 is perfect.\nIt's average.\n\nTest yours free: axeo.vision",
+      "visual_notes": "Infographic: vertical acuity scale with colored tiers. Dark background, teal for 20/20 line highlighted as midpoint. Clean Axeo brand design.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W3-TUE-07",
+      "platform": "reddit",
+      "time": "19:00",
+      "pillar": "conversion",
+      "format": "text-post",
+      "hook": "I thought I had 20/20 vision. Found out I was wrong, and here's how I checked it for free.",
+      "caption": "r/optometry or r/EyeCare\n\nBackground: I've worn contact lenses for years. Had my prescription, thought I was fine. Never questioned the '20/20 corrected' notation on my prescription.\n\nLast week I was curious after reading about contrast sensitivity and decided to take the free test battery on axeo.vision (no signup required, browser-based, 5 minutes total).\n\nResults:\n- Snellen: 20/25 (mild, but slightly worse than I thought)\n- Contrast sensitivity: Below average for my age range — which actually explained why evening driving had felt harder lately\n- Color vision: Normal\n\nNone of this was detected at my last annual exam because: (1) my optometrist uses a physical Snellen chart at fixed distance, and (2) contrast sensitivity wasn't tested at all.\n\nI went back and specifically asked about my contrast sensitivity — my optometrist confirmed it and mentioned early cataract changes (I'm 38).\n\nThe tests are free at axeo.vision and took maybe 6 minutes total. Worth knowing your actual baseline.",
+      "visual_notes": "First-person account format. Educational, detailed, community-appropriate. Soft promotion through personal experience.",
+      "cta": "axeo.vision — free baseline testing"
+    }
+  ]
+}

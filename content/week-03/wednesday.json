@@ -1,0 +1,87 @@
+{
+  "day": "Wednesday",
+  "week": 3,
+  "posts": [
+    {
+      "id": "W3-WED-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "What number do you see? 1 in 12 men can't answer this question.",
+      "caption": "Color vision deficiency affects:\n1 in 12 men\n1 in 200 women\n\nMost don't find out until adulthood.\n\nAnd the screening test — the Ishihara plate — takes 2 minutes.\n\nCan you see the number?\n\nFree color vision test: axeo.vision\n\n#ColorBlind #ColorVision #EyeHealth #Axeo #HealthTok #IshiharaTest #VisionTest",
+      "visual_notes": "Full-frame Ishihara-style colored dot pattern. A number partially hidden in the dots. Bold text: 'What number do you see?' No answer shown — forces engagement.",
+      "video_prompt": "Runway Gen-4: Ishihara reveal sequence. NO PEOPLE. OPENING (5s): Full-frame stylized Ishihara plate — circular red-green dot pattern with a number '74' hidden inside. Text overlay 'What number do you see?' fades in at 1s. Dots slowly materialize with a particle-reveal effect. MIDDLE (4s): A teal ring pulses around where the number is. CLOSING (4s): Screen splits — LEFT shows normal color vision (number clearly visible with teal ring), RIGHT shows deuteranopia simulation (number invisible, indistinct gray blobs). 9:16. 13 seconds.",
+      "cta": "Link in bio — free color vision test"
+    },
+    {
+      "id": "W3-WED-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Why some men literally cannot see red and green — the biology of color blindness.",
+      "caption": "Color vision deficiency isn't just seeing gray.\n\nThe most common type: red-green deficiency.\n\nHow it works:\nYour retina has 3 types of cone cells — for red, green, and blue wavelengths.\n\nIn deuteranomaly (most common): green cones detect the wrong wavelength.\n\nResult: red and green appear similar — both brownish-yellow.\n\nThis affects job performance in:\n- Design\n- Electrical work (colored wires)\n- Food inspection\n- Military\n- Medicine (blood reading)\n\nFree 2-minute test: axeo.vision\n\n#ColorVision #RedGreenBlind #EyeHealth #Axeo #AxeoVision #Optometry #VisionScience",
+      "visual_notes": "Retinal cone cell diagram. Three cone types highlighted. Animation showing wavelength overlap in deuteranomaly. Color simulation comparisons. Clinical educational style.",
+      "video_prompt": "Runway Gen-4: Cone cell biology animation. NO PEOPLE. PART 1 (10s): Simplified diagram of the retina — three types of cone cells labeled 'L (Red)', 'M (Green)', 'S (Blue)'. Each pulses with its color. Then 'M cone' arrow shifts — its detection peak overlaps with 'L cone'. Text: 'Deuteranomaly — green cone shifted'. Teal medical outlines on dark navy background. PART 2 (10s): Color wheel comparison — LEFT labeled 'Normal vision', RIGHT labeled 'Deuteranomaly'. The red and green sectors appear as similar brownish-yellow on the right. Gradual animation. PART 3 (8s): Three real-world icons — traffic light, electrical wires, food plate — each shown in normal vs color-blind simulation. Hard cuts. 9:16. 28 seconds.",
+      "cta": "Link in bio — test your color vision free"
+    },
+    {
+      "id": "W3-WED-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "reel-15s",
+      "hook": "1 in 12 men has a color vision deficiency. Most found out by accident.",
+      "caption": "Color vision deficiency is one of the most under-screened conditions in ophthalmology.\n\n→ 8% of men affected globally\n→ 0.5% of women affected\n→ Inherited on the X chromosome\n→ No cure — but testing reveals it\n\nKnowing matters:\n- Career choices that require color discrimination\n- Driving safety (signal color recognition)\n- Understanding your child's school screening results\n\nFree Ishihara-style color test at axeo.vision — 12 plates, 2 minutes.\n\n#ColorBlindness #ColorVision #EyeHealth #Axeo #AxeoVision #VisionTest #Ishihara",
+      "visual_notes": "Rapid 3-card reveal. Each card shows an Ishihara-style plate with a visible number, then the same plate from a color-deficient perspective. Dark, dramatic, educational.",
+      "video_prompt": "Runway Gen-4: Three-plate reveal. NO PEOPLE. PLATE 1 (4s): Large stylized Ishihara dot plate, number '12' visible in red dots on green background. Half-second hold, then a vertical wipe splits the frame — LEFT: normal (number clear), RIGHT: color blind simulation (number invisible). PLATE 2 (4s): Number '74' plate, same wipe transition. PLATE 3 (5s): Number '6' plate — wipe transition. Final half second: teal text 'Test free — axeo.vision'. Hard cuts, clinical urgency. 9:16. 14 seconds.",
+      "cta": "Link in bio — free color vision test at axeo.vision"
+    },
+    {
+      "id": "W3-WED-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 3, Day 3 — have you ever been tested for color vision deficiency?",
+      "caption": "The Ishihara test takes 2 minutes.\n\nMost people have never taken it outside a school exam.\n\nTry ours free — axeo.vision\n\n#EyeHealth #Axeo #ColorVision",
+      "visual_notes": "Instagram Story with the partial Ishihara-style visual in background. Poll: 'Yes — I know my status ✅' vs 'No — never been tested 🤔'. Teal/dark Axeo brand.",
+      "video_prompt": "",
+      "cta": "Test free — axeo.vision"
+    },
+    {
+      "id": "W3-WED-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "shock",
+      "format": "video-30s",
+      "hook": "Color blindness isn't seeing in black and white — here's what it actually looks like.",
+      "caption": "Most people think color blindness = grayscale.\n\nThat's almost never true.\n\nThe reality:\n\n→ Deuteranopia: Red and green look the same — brownish\n→ Protanopia: Red appears very dark or black\n→ Tritanopia: Blue-yellow confusion (rarest)\n→ Monochromacy: True grayscale — affects 1 in 30,000\n\nThe most common type (deuteranomaly) is so mild many people don't notice until tested.\n\nFree Ishihara test at axeo.vision — 2 minutes.\n\n#ColorBlindness #ColorVision #EyeHealth #Axeo #Optometry #VisionScience",
+      "visual_notes": "Color simulation comparison cards for each type. Real-world scene shown in normal vs each deficiency type. Clear labeling. Educational, non-alarmist.",
+      "cta": "Free test — link in description"
+    },
+    {
+      "id": "W3-WED-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "thread",
+      "hook": "Color vision deficiency affects 300 million people worldwide. Most don't know they have it. A thread on what you're actually missing:",
+      "caption": "1/ 1 in 12 men and 1 in 200 women have some form of color vision deficiency. The most common type is deuteranomaly — a shift in green cone sensitivity.\n\n2/ It's not seeing in grayscale. Most people with color deficiency see most colors — but red and green appear similar: a brownish yellow that makes discrimination impossible.\n\n3/ It's inherited on the X chromosome. Men have one X, so one defective gene is enough. Women have two X chromosomes — both must carry the gene for full deficiency.\n\n4/ Careers affected: pilots, train drivers, electricians, designers, surgeons, military — all have color vision requirements.\n\n5/ There's no cure. But color vision glasses (EnChroma etc.) can help some people with specific deficiency types distinguish more colors.\n\n6/ The Ishihara test has been the gold standard since 1917. You can take a free version (12 plates) at axeo.vision in 2 minutes.\n\nShare this for the 1 in 12 men who might not know.",
+      "visual_notes": "Text thread. Optional: Ishihara plate graphic. Educational, shareable format.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W3-WED-07",
+      "platform": "reddit",
+      "time": "18:00",
+      "pillar": "education",
+      "format": "text-post",
+      "hook": "Found out at 32 that I've had mild color vision deficiency my whole life — how to test yourself at home",
+      "caption": "r/colorblind or r/optometry\n\nI failed a color vision screening at a job application (aircraft maintenance) at age 32. Had never been tested before — not in school, not at any eye appointment.\n\nTurns out I have deuteranomaly, the mild form of red-green deficiency.\n\nLooking back, so many things made sense: why I struggled with certain data visualizations, why I'd occasionally misread resistor color codes, why 'khaki' and 'olive' looked identical to me.\n\nMild deuteranomaly is incredibly common — approximately 5% of men. Many people live their whole lives not knowing.\n\nIf you want to get a baseline, there are free online options. The one I found most comprehensive is axeo.vision (12 Ishihara-style plates, no signup, browser-based). It's not a clinical replacement but it'll give you a strong indication.\n\nHappy to answer questions about what the diagnosis process looks like if anyone is curious.",
+      "visual_notes": "Authentic first-person format. Soft promotion through experience. r/colorblind community-appropriate tone.",
+      "cta": "axeo.vision — free color vision test"
+    }
+  ]
+}

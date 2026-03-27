@@ -1,0 +1,87 @@
+{
+  "day": "Friday",
+  "week": 3,
+  "posts": [
+    {
+      "id": "W3-FRI-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Your eyes hurt after work. But is it eye strain — or is your prescription wrong?",
+      "caption": "Eye strain and vision decline feel identical.\n\nBoth cause:\n- Headaches\n- Blurry vision\n- Tired eyes by 3pm\n- Difficulty focusing\n\nThe difference:\n\nEye strain → goes away after rest\nVision change → persists even after sleep\n\nOne test, 2 minutes: axeo.vision\n\nIf your score changes week over week — that's not strain.\n\n#EyeStrain #VisionTest #EyeHealth #Axeo #HealthTok #DigitalEyeStrain #VisionChange",
+      "visual_notes": "Split-screen stat cards. Left: 'Eye Strain' symptoms. Right: 'Vision Change' symptoms. Overlap highlighted. Teal = distinction. Bold, clinical format.",
+      "video_prompt": "Runway Gen-4: Split-screen comparison. NO PEOPLE. LEFT PANEL (throughout): Teal header 'Eye Strain'. Four bullet points fade in: 'Headaches', 'Blurry after screens', 'Tired eyes', 'Improves with rest'. Green checkmark on last point. RIGHT PANEL (throughout): Orange header 'Vision Change'. Same four symptoms listed. Red X on last point — 'Does NOT improve with rest'. A vertical teal divider separates panels. FINAL FRAME (4s): Dark background, large text 'Track weekly to know the difference'. Clinical, urgent. 9:16. 13 seconds.",
+      "cta": "Link in bio — track your vision weekly"
+    },
+    {
+      "id": "W3-FRI-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "5 signs your eyes need a real break this weekend — not just sleep.",
+      "caption": "End-of-week eye assessment:\n\n1. Can you read the bottom line of a Snellen chart easily?\n   (If worse than Monday → screen fatigue)\n\n2. Do letters blur when switching between phone and distance?\n   (Accommodation lag — ciliary muscle fatigue)\n\n3. Do bright lights feel more uncomfortable than usual?\n   (Photophobia — common end-of-week symptom)\n\n4. Are your eyes red and dry by 2pm?\n   (Blink rate has dropped below 7/min)\n\n5. Do you get headaches between the eyes?\n   (Convergence fatigue)\n\nIf 3+ are yes: your eyes need active recovery, not just sleep.\n\nWeekend recovery protocol: axeo.vision/exercise\n\n#EyeStrain #WeekendRecovery #EyeHealth #Axeo #AxeoVision #DigitalDetox #EyeExercise",
+      "visual_notes": "5-item checklist animated reveal. Each item with clear visual metaphor. Dark background with teal checkmarks. Weekend recovery energy.",
+      "video_prompt": "Runway Gen-4: Checklist reveal sequence. NO PEOPLE. Five checklist items animate in one by one, each with a small icon on the left: (1) Snellen chart icon — 'Blurry distance reading'; (2) Phone-to-window icon — 'Slow focus switching'; (3) Light bulb icon — 'Increased light sensitivity'; (4) Eye with water drops — 'Dry and red by 2pm'; (5) Forehead with dot between eyes — 'Headaches between the eyes'. Each item fades in with a subtle slide-up. Teal checkmarks appear beside each. Final frame: '3+ = your eyes need active recovery'. Dark background, warm amber accent. 9:16. 28 seconds.",
+      "cta": "Link in bio — weekend recovery protocol at axeo.vision"
+    },
+    {
+      "id": "W3-FRI-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "reel-30s",
+      "hook": "How to tell if your vision is actually changing — or just tired.",
+      "caption": "Your eyes lie to you at the end of the week.\n\nTemporary blur from screen fatigue feels identical to permanent vision change.\n\nThe only way to tell the difference: track your Snellen score consistently.\n\nIf your score:\n✓ Returns to baseline after rest → eye strain\n⚠️ Consistently worse by 1+ lines → prescription change\n⚠️ Worse in one eye only → urgent ophthalmology referral\n\nAxeo stores your weekly scores so you can spot patterns.\n\nTest takes 2 minutes. Baseline established in 2 weeks.\n\nFree at axeo.vision — no account required.\n\n#EyeStrain #VisionTracking #EyeHealth #Axeo #AxeoVision #VisionTest #Optometry",
+      "visual_notes": "Animated chart showing vision scores over time — a line dipping on Fridays and returning on Mondays (strain pattern) vs a downward trend (vision change). Clinical graph style. Dark background.",
+      "video_prompt": "Runway Gen-4: Vision tracking visualization. NO PEOPLE. PART 1 (8s): Clean line graph on dark background. X-axis: days of the week (Mon–Sun, then Mon–Sun). Y-axis: 'Vision Score'. Two animated lines draw in: LINE A in teal (zigzag — dips Friday, recovers Monday — labeled 'Eye Strain Pattern'), LINE B in amber (slow downward trend — labeled 'Vision Change Pattern'). Smooth animation. PART 2 (10s): Zoomed view on LINE B — a teal alert marker appears at a point labeled '1-line drop over 3 weeks'. Text: 'This is when to see your optometrist'. PART 3 (8s): Three-scenario comparison: 'Better after weekend → strain ✓', 'Same or worse → check again ⚠', 'Worse in one eye → urgent ❗'. Final: 'Track free at axeo.vision'. 9:16. 28 seconds.",
+      "cta": "Link in bio — weekly vision tracking at axeo.vision"
+    },
+    {
+      "id": "W3-FRI-04",
+      "platform": "instagram",
+      "time": "17:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "End of Week 3 — how are your eyes feeling right now?",
+      "caption": "Rate your eye comfort after a full work week.\n\nTried any of this week's exercises?\n\nDrop your score in the comments 👇\n\n#EyeHealth #Axeo #WeeklyChallenge",
+      "visual_notes": "Instagram Story emoji slider: from 🔥 (burning, strained) to ✨ (fresh and clear). Friday end-of-week energy. Teal/dark Axeo brand colors.",
+      "video_prompt": "",
+      "cta": "Weekend recovery — axeo.vision/exercise"
+    },
+    {
+      "id": "W3-FRI-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "demo",
+      "format": "video-30s",
+      "hook": "All 6 Axeo vision tests — full walkthrough before the weekend.",
+      "caption": "Take your weekly baseline before you disconnect for the weekend.\n\nAxeo's 6 free vision tests:\n\n1. Snellen acuity (2 min) — distance sharpness\n2. Color vision (2 min) — Ishihara-style plates\n3. Contrast sensitivity (90 sec) — low-light detection\n4. Astigmatism check (1 min) — corneal irregularity\n5. Amsler grid (30 sec) — macular health\n6. Dry eye assessment (2 min) — OSDI questionnaire\n\nTotal time: ~10 minutes\nRequired: a browser, good lighting, no glasses during acuity test\n\nAll free at axeo.vision. No account. No download.\n\n#VisionTest #EyeTest #EyeHealth #Axeo #FreeTest #Optometry #VisionCheck",
+      "visual_notes": "Rapid walkthrough of all 6 test UIs. Screen recording style. Each labeled clearly. Satisfying assembly format.",
+      "cta": "Free test battery — link in description"
+    },
+    {
+      "id": "W3-FRI-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "media-post",
+      "hook": "Eye strain and vision decline are not the same thing. Here's a one-minute self-check.",
+      "caption": "Friday afternoon self-test:\n\nAsk yourself right now:\n1. Cover right eye → read small text on your screen\n2. Cover left eye → same\n3. Look at something 20ft away → is it clear?\n4. Blink 5 times deliberately → does blur improve?\n\nIf blur improves after blinking or after 5 min rest → eye strain\nIf blur persists through the weekend → your prescription may have changed\n\nTrack weekly at axeo.vision\nTakes 2 minutes. Shows you patterns over time.",
+      "visual_notes": "Four-step self-test infographic. Teal numbered steps. Quick, actionable, shareable format. Axeo brand.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W3-FRI-07",
+      "platform": "linkedin",
+      "time": "18:00",
+      "pillar": "education",
+      "format": "article",
+      "hook": "Your team has a vision problem — and it's costing you productivity every Friday afternoon.",
+      "caption": "Remote work eye strain peaks on Friday afternoon.\n\nA University of Alabama study found that visual discomfort and reduced acuity performance is 23% worse at the end of the work week vs Monday morning — in workers with no known vision problems.\n\nThis isn't a prescription issue.\nIt's cumulative ciliary muscle fatigue from sustained near work.\n\nThe cost:\n→ Reduced reading speed Friday PM\n→ Increased error rates in detail-heavy work\n→ Higher reported headaches = more sick time\n\nThree things that help:\n1. One mandatory 20-20-20 screen break per hour (set team-wide reminders)\n2. Ambient lighting that reduces screen-to-environment contrast ratio\n3. Friday afternoon vision-forward work (calls vs documents)\n\nAxeo provides team-level eye health tools including guided break reminders and weekly vision checks: axeo.vision\n\n#RemoteWork #EmployeeWellness #EyeHealth #Productivity #DigitalWellbeing #HR",
+      "visual_notes": "Professional LinkedIn article post. Data-led. Practical, B2B framing. Axeo positioned as corporate wellness tool.",
+      "cta": "axeo.vision — team eye health tools"
+    }
+  ]
+}

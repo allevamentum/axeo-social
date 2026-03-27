@@ -1,0 +1,87 @@
+{
+  "day": "Saturday",
+  "week": 3,
+  "posts": [
+    {
+      "id": "W3-SAT-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "1 in 10 people has this vision problem. It's been misdiagnosed as ADHD for decades.",
+      "caption": "Convergence Insufficiency.\n\nThe eyes fail to work together at close range.\n\nSymptoms:\n- Words move or blur while reading\n- Losing your place on a line\n- Headaches after 20 minutes of reading\n- Double vision at close range\n\n1 in 10 people.\n\nMost are diagnosed with reading difficulties, ADHD, or dyslexia instead.\n\nFree convergence test: axeo.vision\n\n#ConvergenceInsufficiency #EyeHealth #ADHD #Axeo #HealthTok #VisionTest #ReadingProblems",
+      "visual_notes": "Bold shock stat cards. Text splitting and doubling effect to simulate CI visual. Red → teal color shift. Urgent and eye-opening.",
+      "video_prompt": "Runway Gen-4: CI simulation sequence. NO PEOPLE. CARD 1 (3s): Bold '1 IN 10' white text on dark background. Teal subtitle 'people have convergence insufficiency'. CARD 2 (3s): Line of text on white background: 'The quick brown fox jumps...' — the text slowly splits into double vision, one ghost copy drifting right. Orange tint on the double image. CARD 3 (4s): Same text line, now the words shuffle and blur as if losing tracking. Title: 'Often diagnosed as: ADHD, Dyslexia, Reading Disorder'. Red labels appear. Final second: teal text 'It's often a vision problem'. 9:16. 13 seconds.",
+      "cta": "Link in bio — free convergence test"
+    },
+    {
+      "id": "W3-SAT-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "What convergence insufficiency actually is — and the exercise optometrists prescribe.",
+      "caption": "Your eyes are supposed to converge — aim at the same point.\n\nIn convergence insufficiency, the eyes drift outward. To read, they have to work overtime to stay aligned. Eventually they give up.\n\nResult: double vision, blur, headaches, losing place while reading.\n\nThe treatment: convergence exercises.\n\nMost prescribed: pencil push-ups.\n1. Hold pencil at arm's length.\n2. Focus on the tip.\n3. Slowly bring toward your nose.\n4. Stop at the first sign of doubling.\n5. Push back slowly. Repeat 10x.\n\nGuided version at axeo.vision/exercise\n\n#ConvergenceInsufficiency #EyeExercise #Axeo #AxeoVision #VisionTherapy #Optometry #ReadingDifficulty",
+      "visual_notes": "Eye convergence diagram animation. Eyes drifting outward shown. Then pencil push-up exercise steps overlaid. Teal medical illustration style.",
+      "video_prompt": "Runway Gen-4: Convergence animation. NO PEOPLE. PART 1 (10s): Top-down stylized diagram of two eyes (no face). Teal dotted lines show their gaze direction — normally converging at a near point. Then slowly the lines diverge outward, showing CI. Orange glow at the point where they fail to converge. Text: 'Convergence Insufficiency — eyes drift outward during close work'. PART 2 (10s): Pencil macro shot — a yellow pencil tip against white background, moving slowly from far to near. Convergence lines on diagram track the pencil movement in split-screen. Step numbers appear: 1–4. PART 3 (8s): 'Near Point of Convergence' measurement diagram — the point where doubling starts, marked with teal bracket. Text: 'Normal: 6–10cm. CI: 15cm+'. Final: 'Guided exercise at axeo.vision'. 9:16. 28 seconds.",
+      "cta": "Link in bio — guided convergence exercises"
+    },
+    {
+      "id": "W3-SAT-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "reel-15s",
+      "hook": "The vision problem that affects 1 in 10 — and hides behind ADHD diagnoses.",
+      "caption": "Convergence insufficiency has been called 'the hidden reading disorder'.\n\n→ 10% of the population\n→ Frequently misdiagnosed as ADHD or dyslexia\n→ Children: often show behavioral problems in class (not paying attention = eye fatigue)\n→ Adults: reduced reading stamina, headaches after screen work\n\nThe fix: a few minutes of targeted eye exercises per day.\n\nGuidance at axeo.vision/exercise — free, browser-based.\n\n#ConvergenceInsufficiency #EyeHealth #Axeo #AxeoVision #ReadingDifficulty #ADHD #VisionTherapy",
+      "visual_notes": "Three-card rapid stat reveal. Each card: white stat on dark background, teal accent. Fast-cut, high impact. Visual of text line splitting in two.",
+      "video_prompt": "Runway Gen-4: Rapid stat sequence. NO PEOPLE. CARD 1 (4s): '1 IN 10' in massive white numerals. Teal subtitle 'affected by convergence insufficiency'. Slight zoom-in on numbers. CARD 2 (4s): 'MISDIAGNOSED' in large amber text. White subtitle 'as ADHD, dyslexia, or reading disorder'. Red outline flashes. CARD 3 (6s): A single line of book text (stylized, no identifiable words) — slowly doubles into two overlapping ghost copies. Teal label appears: 'What they actually see'. Hard cuts between cards, urgent pace. 9:16. 14 seconds.",
+      "cta": "Link in bio — guided exercises at axeo.vision"
+    },
+    {
+      "id": "W3-SAT-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 3, Day 6 — have you or your child ever been tested for convergence insufficiency?",
+      "caption": "It's rarely tested in standard eye exams.\n\nBut it affects 10% of people.\n\nConvergence exercises are free at axeo.vision/exercise\n\n#EyeHealth #Axeo #ConvergenceInsufficiency",
+      "visual_notes": "Instagram Story. Poll: 'Yes — aware of it ✅' vs 'Never heard of it 😮'. Calm, educational tone. Teal/dark Axeo brand. Slight urgency without being alarmist.",
+      "video_prompt": "",
+      "cta": "Learn more — axeo.vision"
+    },
+    {
+      "id": "W3-SAT-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Children labeled 'lazy readers' may actually have an eye tracking problem.",
+      "caption": "Convergence insufficiency is one of the top undiagnosed causes of reading difficulties in children.\n\nWhat teachers and parents see:\n- Child avoids reading\n- Loses place constantly\n- Complains of headaches after school\n- Seems inattentive (it's actually eye fatigue)\n- Covers one eye while reading (compensating)\n\nWhat's actually happening: the eyes drift apart during close work. Keeping them aligned is exhausting.\n\nThe diagnosis: a simple near point of convergence test.\nThe treatment: office-based vision therapy + home exercises.\n\nChildren improve significantly in 12–16 weeks of structured treatment.\n\nFree awareness exercises: axeo.vision/exercise\n\n#ChildEyeHealth #ConvergenceInsufficiency #LearningDifficulties #EyeHealth #Axeo #Optometry",
+      "visual_notes": "Animated book/reading metaphor. Text lines drifting and doubling. 5 behavioral signs listed. Child-focused but no real children shown.",
+      "cta": "Free exercises — link in description"
+    },
+    {
+      "id": "W3-SAT-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "thread",
+      "hook": "Convergence insufficiency — the eye problem that gets kids misdiagnosed with ADHD. A thread:",
+      "caption": "1/ 1 in 10 people has convergence insufficiency (CI). The eyes fail to aim at the same close-up point, causing blur, doubling, and fatigue during reading.\n\n2/ The symptoms in children look exactly like inattention: losing place while reading, avoiding books, frequent headaches after school, covering one eye, tilting the head.\n\n3/ A JAMA study found that children with ADHD symptoms showed significantly higher rates of CI than controls. In many cases, treating CI improved attention and reading scores.\n\n4/ CI is NOT detected by a standard 20/20 eye test. It requires a near point of convergence measurement — a 2-minute test most routine eye exams skip.\n\n5/ Treatment: office-based vision therapy (12–16 weekly sessions) is the gold standard. Home-based pencil push-ups have weaker evidence but are widely prescribed as support.\n\n6/ Axeo has guided convergence exercises at axeo.vision/exercise — free. Includes pencil push-up guide, convergence tracking, and difficulty progression.\n\nShare this with any parent worried about a child's reading.",
+      "visual_notes": "Text thread. Optional: near point of convergence diagram. Educational, authoritative. Cite JAMA for credibility.",
+      "cta": "axeo.vision/exercise"
+    },
+    {
+      "id": "W3-SAT-07",
+      "platform": "reddit",
+      "time": "20:00",
+      "pillar": "conversion",
+      "format": "text-post",
+      "hook": "My son was diagnosed with ADHD at 9. Turns out it was convergence insufficiency. Here's what happened.",
+      "caption": "r/Parenting or r/optometry\n\nLong post — bear with me because I think this is important.\n\nMy son was 9 when his teacher flagged that he couldn't focus during reading time. Pediatrician suggested ADHD evaluation. We got the diagnosis and started medication.\n\nHe improved slightly but still struggled with reading specifically. His therapist noticed that he covered one eye while reading. She referred us to a developmental optometrist.\n\nDiagnosis: convergence insufficiency. Near point of convergence of 18cm (normal is 6–10cm).\n\nThe standard 20/20 test at his last school screening had been completely normal.\n\nAfter 14 weeks of vision therapy:\n- Near point of convergence: back to 8cm\n- Reading fluency improved significantly (tested by school)\n- Headaches after school: stopped\n- He now actively reads for fun\n\nHe's still on a low ADHD dose — we're working with his pediatrician on whether to continue. The convergence insufficiency was definitely a major component.\n\nIf your child avoids reading, loses their place constantly, or covers one eye — ask for a near point of convergence test specifically. A standard eye exam will miss this.\n\nThe free browser tool I've used for home maintenance exercises: axeo.vision/exercise — convergence section has a guided pencil push-up sequence.",
+      "visual_notes": "First-person parent narrative. Deeply human, not promotional. Authentic community format. Soft promotion through experience.",
+      "cta": "axeo.vision/exercise — convergence exercises"
+    }
+  ]
+}

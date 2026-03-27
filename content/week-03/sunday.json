@@ -1,0 +1,87 @@
+{
+  "day": "Sunday",
+  "week": 3,
+  "posts": [
+    {
+      "id": "W3-SUN-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "education",
+      "format": "video-15s",
+      "hook": "Saccades: the eye movement exercise you've never heard of — and why athletes swear by it.",
+      "caption": "Saccades = rapid, precise eye jumps between fixed points.\n\nYour eyes do this 3–5 times per second when reading.\n\nWhen saccades are slow or inaccurate:\n- You re-read lines\n- Lose your place\n- Reading feels exhausting\n\nSaccades exercises improve:\n- Reading speed\n- Sports reaction time\n- Driving safety\n\nGuided saccades exercise: axeo.vision/exercise\n\n#Saccades #EyeExercise #EyeHealth #Axeo #HealthTok #VisionTraining #AthleteEyeHealth",
+      "visual_notes": "Two points on screen. Fast dot jumping between them. Teal motion trail. Athletic, sharp energy.",
+      "video_prompt": "Runway Gen-4: Saccade motion visualization. NO PEOPLE. A dark background. Two bright teal dots placed wide apart — one left, one right. A white moving dot rapidly snaps between them — hard, ballistic movement (not smooth — saccades are NOT smooth). Fast, sharp, precise. Teal motion trail fades behind each jump. Three jumps shown. Then text overlays: 'Your eyes do this 3–5× per second when reading'. Speed metric counter in corner: '200ms per jump'. The pace is visually impressive and athletic. 9:16. 13 seconds.",
+      "cta": "Link in bio — guided saccades exercise"
+    },
+    {
+      "id": "W3-SUN-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "community",
+      "format": "video-30s",
+      "hook": "Week 3 done. Everything we covered — and what it means for your vision.",
+      "caption": "Week 3 recap:\n\n✅ Contrast sensitivity — the test your optometrist skips\n✅ 20/20 myth — average, not perfect\n✅ Color vision deficiency — 1 in 12 men\n✅ Amsler grid — macular health self-check\n✅ Eye strain vs vision change — how to tell\n✅ Convergence insufficiency — 10% of people\n✅ Saccades — the reading performance exercise\n\nYou now know more about your eyes than most people learn in a lifetime.\n\nWeek 4: Eye exercise deep dive — starting Monday.\n\nAll resources free: axeo.vision\n\n#WeekRecap #EyeHealth #Axeo #AxeoVision #VisionEducation #EyeExercise",
+      "visual_notes": "Checklist animation revealing 7 items. Celebratory but clean. Week 3 summary card format. Teal checkmarks on dark background.",
+      "video_prompt": "Runway Gen-4: Checklist summary animation. NO PEOPLE. Dark background (#0D0E14). Seven rows animate in one by one with teal checkmarks appearing on the left: 'Contrast Sensitivity ✓' → '20/20 Myth ✓' → 'Color Vision ✓' → 'Amsler Grid ✓' → 'Eye Strain vs Change ✓' → 'Convergence Insufficiency ✓' → 'Saccades ✓'. Each row uses a slight upward slide-in animation. After all seven appear, a teal glow pulses around the full list. Final frame (4s): 'Week 4 starts tomorrow — Eye Exercises Deep Dive' in white on dark background. Clean, satisfying. 9:16. 28 seconds.",
+      "cta": "Link in bio — all resources at axeo.vision"
+    },
+    {
+      "id": "W3-SUN-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "reel-30s",
+      "hook": "Saccades training — the 3-minute exercise that improves reading speed and sports performance.",
+      "caption": "Saccades are the rapid, precise eye jumps your brain makes when reading, driving, or playing sports.\n\nWhen your saccades are accurate:\n- Faster reading\n- Less re-reading\n- Better reaction time\n- Improved sports tracking\n\nSaccades training exercise:\n1. Hold two thumbs up, 60cm apart\n2. Keep your head still\n3. Look rapidly between left thumb → right thumb\n4. 20 reps, then rest 10 seconds\n5. Repeat 3 sets\n\nYou can feel the difference in reading speed within 10 sessions.\n\nGuided version with audio timing at axeo.vision/exercise\n\n#Saccades #EyeExercise #ReadingSpeed #Axeo #AxeoVision #SportsVision #EyeHealth",
+      "visual_notes": "Abstract visualization of saccade movement. Two point targets. Rapid eye track animation. Step-by-step overlay. Athletic, clean, premium feel.",
+      "video_prompt": "Runway Gen-4: Saccades training visualization. NO PEOPLE. PART 1 (8s): Top-down abstract diagram — two glowing teal points far apart on a dark background. A white tracking line snaps between them repeatedly — ballistic, fast jumps. Speed counter: '200ms'. Text overlay: 'Saccades — your brain's fastest motor system'. PART 2 (10s): Step-by-step exercise guidance cards animate in: 'Step 1: Hold thumbs 60cm apart' → 'Step 2: Head still — eyes only' → 'Step 3: Jump L → R rapidly' → '3 sets of 20'. Each card slides in cleanly with a teal accent. PART 3 (8s): Before/after reading simulation — same text line shown twice. BEFORE: multiple regression arrows, slow tracking. AFTER: clean left-to-right sweep, no regressions. 'Axeo tracks your accuracy'. Final: axeo.vision/exercise. 9:16. 28 seconds.",
+      "cta": "Link in bio — guided saccades at axeo.vision"
+    },
+    {
+      "id": "W3-SUN-04",
+      "platform": "instagram",
+      "time": "17:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 3 done! How many days of exercises did you complete?",
+      "caption": "Week 3 challenge complete 🎉\n\nWe covered 7 new topics. Did you take any of the tests?\n\nComment your number below 👇\n\n#WeeklyChallenge #EyeHealth #Axeo",
+      "visual_notes": "Instagram Story poll. Celebratory but clean. Poll: '7/7 — crushed it 💪' vs 'Started strong — Week 4 I'm ready ✅'. Teal confetti or simple glow. Week 3 wrap energy.",
+      "video_prompt": "",
+      "cta": "Week 4 starts tomorrow — axeo.vision"
+    },
+    {
+      "id": "W3-SUN-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Week 3 vision science summary — 7 things you now know that most people don't.",
+      "caption": "Week 3 — everything we covered:\n\n🔵 Contrast sensitivity declines before acuity\n🔵 20/20 = average vision, not the top of the scale\n🔵 Color vision deficiency: 8% of men never tested\n🔵 Amsler grid can detect AMD months before symptoms\n🔵 Eye strain vs vision change: only weekly testing tells them apart\n🔵 Convergence insufficiency: misdiagnosed as ADHD in millions\n🔵 Saccades training improves reading speed measurably\n\nAll tests and exercises free at axeo.vision\n\n#VisionScience #EyeHealth #Axeo #WeekRecap #EyeTest #EyeExercise #VisionTest",
+      "visual_notes": "Seven-card rapid summary. Clean stat/fact format. Each card with bullet and brief note. Week summary energy.",
+      "cta": "Free tools — link in description"
+    },
+    {
+      "id": "W3-SUN-06",
+      "platform": "x",
+      "time": "10:00",
+      "pillar": "education",
+      "format": "media-post",
+      "hook": "Week 3 eye health highlights — 7 things worth knowing.",
+      "caption": "This week's vision science highlights:\n\n→ Contrast sensitivity: declines before 20/20 acuity changes\n→ 20/20 vision = average, not maximum\n→ Color vision deficiency: 8% of men, often untested\n→ Amsler grid: 30-second early AMD self-check\n→ Eye strain vs vision change: only weekly tracking reveals which\n→ Convergence insufficiency: 10% of people, misdiagnosed as ADHD\n→ Saccades training: measurably improves reading speed\n\nAll tests + exercises free at axeo.vision",
+      "visual_notes": "Seven-point summary infographic card. Clean list. Teal accent bullets. Axeo brand dark background. Shareable format.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W3-SUN-07",
+      "platform": "reddit",
+      "time": "19:00",
+      "pillar": "community",
+      "format": "text-post",
+      "hook": "Week 3 eye health check-in — what was the most surprising thing you learned this week?",
+      "caption": "r/EyeCare or r/HealthyHabits\n\nEnd of another week. Running a check-in:\n\nThis week I went deep on vision testing science. A few things that genuinely surprised me:\n\n1. Contrast sensitivity — I had no idea this was a separate, measurable skill from acuity. Took the free test at axeo.vision and found I'm slightly below average for my age group. Explains my discomfort with certain color combinations on screens.\n\n2. Convergence insufficiency — the ADHD misdiagnosis connection is real and documented. I had a lot of the symptoms as a kid that were attributed to 'not trying hard enough to read.'\n\n3. The Amsler grid — 30 seconds, free, browser-based, can detect early macular changes. This has been an ophthalmologist recommendation for home monitoring for decades. Why has no one made it easily available online until now?\n\nAnyone else doing weekly vision tracking? Curious what others are noticing in their results over time.\n\nAll the tests I've been using: axeo.vision (free, no signup).",
+      "visual_notes": "Authentic community check-in. Three personal observations. Genuinely curious and educational. Soft Axeo mention through usage context.",
+      "cta": "axeo.vision — free weekly vision tracking"
+    }
+  ]
+}
