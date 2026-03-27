@@ -1,0 +1,88 @@
+{
+  "day": "Wednesday",
+  "week": 4,
+  "posts": [
+    {
+      "id": "W4-WED-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Your eye has a muscle that gets weaker every year you spend staring at screens. This 2-minute exercise rebuilds it.",
+      "caption": "Accommodation: your eye's ability to shift focus between near and far.\n\nIt's controlled by the ciliary muscle and crystalline lens.\n\nSpend most of your day at arm's length, and this muscle learns to stay contracted.\n\nSymptoms of weakened accommodation:\n→ Takes longer to refocus after looking up from your phone\n→ Far objects blur briefly when you switch from near\n→ Reading fatigue earlier in the day\n\nFocus shifting exercise rebuilds accommodation range.\n\n3 minutes. No equipment.\n\nGuided version: axeo.vision/exercise\n\n#FocusShifting #Accommodation #EyeExercise #Axeo #HealthTok #EyeHealth #VisionTraining",
+      "visual_notes": "Fast stat cut. Accommodation concept visualized — near vs far focus animation. Urgent, scientific. Dark background.",
+      "video_prompt": "Runway Gen-4: Accommodation range visualization. NO PEOPLE. CARD 1 (4s): Dark background. Large white text: 'Accommodation'. Below: 'Your eye's near-to-far focus range'. A simple diagram shows a focal point moving from 30cm to 6m on a horizontal axis — animated arrow sweeps the full range. CARD 2 (5s): The same diagram but the range shrinks — arrow only moves from 30cm to 60cm. Red highlight on the shortened range. Text: 'Screen-dominant eyes: reduced range'. CARD 3 (5s): The range expands again with a teal animation. Text: 'Focus shifting rebuilds accommodation'. Teal arrow sweeps the full range again. Clinical, urgent, educational. 9:16. 13 seconds.",
+      "cta": "Link in bio — guided focus exercise at axeo.vision"
+    },
+    {
+      "id": "W4-WED-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Focus shifting: the exercise that trains your eye's full accommodation range — and why screens are narrowing it.",
+      "caption": "Accommodation is your eye's ability to change focus between near and far distances.\n\nIt's one of the most remarkable optical systems in biology:\n- At 25cm: ciliary muscle fully contracted, lens maximally curved\n- At 6m+: muscle fully relaxed, lens flattened\n- Transition time: as fast as 300ms in a healthy eye\n\nThe problem with screen-dominated days:\nYou spend 90% of your visual time in a narrow near range (30–60cm).\n\nYour accommodation system adapts — it gets efficient at near work and sluggish at the transitions that matter.\n\nFocus shifting exercise:\n1. Hold thumb at arm's length (60cm)\n2. Focus on thumb for 5 seconds\n3. Look at something across the room (3–5m) for 5 seconds\n4. Look out a window (6m+) for 5 seconds\n5. Return to thumb — repeat 10 times\n\nThis exercises the full accommodation range — near, mid, and far.\n\nGuided version at axeo.vision/exercise\n\n#Accommodation #FocusShifting #EyeExercise #Axeo #AxeoVision #NearFarFocus #EyeHealth",
+      "visual_notes": "Focus range diagram. Three-distance exercise visualization. Step-by-step overlay. Dark background with teal range markers.",
+      "video_prompt": "Runway Gen-4: Accommodation training explainer. NO PEOPLE. PART 1 (8s): Top-down diagram — a horizontal line representing visual distance from 25cm to 6m+. A glowing teal focal point slides from near to far and back. Text overlay: 'Healthy eye: full range, 300ms transition'. Then the range narrows — only near zone lit. Text: 'Screen life: range collapses'. PART 2 (10s): Step-by-step focus exercise cards animate in sequence: 'Step 1: Focus near (60cm) — 5s' → 'Step 2: Mid distance (3m) — 5s' → 'Step 3: Far (window) — 5s' → 'Repeat 10 times'. Teal accent lines highlight each step. PART 3 (8s): The accommodation range diagram fills back to full — teal focal point glides the complete arc smoothly. Text: 'Three zones. Three minutes. Full range restored.' Clinical, clean. 9:16. 28 seconds.",
+      "cta": "Link in bio — guided focus shifting at axeo.vision"
+    },
+    {
+      "id": "W4-WED-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "reel-15s",
+      "hook": "3 focus distances. 10 reps. 3 minutes. This is the full accommodation exercise.",
+      "caption": "Focus shifting trains your eye's near-to-far accommodation range.\n\nScreens keep you locked in one zone (30–60cm) all day.\n\nThis exercise uses all three:\n\n1. Near: thumb at 60cm — 5 seconds\n2. Mid: object at 3–5m — 5 seconds\n3. Far: window or 6m+ — 5 seconds\n\n10 full rounds = 2.5 minutes.\n\nThe ciliary muscle gets the full contraction-to-relaxation cycle it never gets from screen work alone.\n\nGuided timer version free at axeo.vision/exercise\n\n#FocusShifting #EyeExercise #Accommodation #Axeo #AxeoVision #NearFarFocus #EyeHealth",
+      "visual_notes": "Clean 3-step visual. Three focal distances shown as abstract zones. Minimal, punchy. Educational but fast-paced for the 15s format.",
+      "video_prompt": "Runway Gen-4: Three-zone focus exercise. NO PEOPLE. A clean dark frame divided conceptually into three zones — near (warm teal glow close to camera), mid (softer teal), far (faint glow in distance). An animated focal point — a bright teal dot — smoothly shifts between the three zones: near (hold 5s) → mid (hold 5s) → far (hold 5s). Text labels each zone as the dot arrives: '60cm — Near' → '3–5m — Mid' → '6m+ — Far'. On the second cycle, a counter: 'Round 1 of 10'. The motion is smooth and hypnotic. Clean, clinical. 9:16. 14 seconds.",
+      "cta": "Link in bio — guided timer at axeo.vision"
+    },
+    {
+      "id": "W4-WED-04",
+      "platform": "instagram",
+      "time": "17:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 4, Day 3 — do you notice a lag when you look up from your phone at something far away?",
+      "caption": "That momentary blur when you look up from your screen?\n\nThat's your accommodation struggling to shift.\n\nToday's exercise trains exactly that.\n\nFocus shifting — guided at axeo.vision/exercise\n\n#EyeHealth #Accommodation #Axeo",
+      "visual_notes": "Instagram Story. Axeo dark brand. Poll: 'Yes — takes a second to refocus 😬' vs 'No lag — my eyes are sharp ✅'. Relatable framing.",
+      "video_prompt": "",
+      "cta": "Try the exercise — axeo.vision/exercise"
+    },
+    {
+      "id": "W4-WED-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Why your vision blurs briefly when you look up from your phone — and the exercise that fixes it in 3 minutes.",
+      "caption": "That half-second blur when you look up from your phone?\n\nNot a disease. Not myopia progressing.\n\nIt's a lagging accommodation response.\n\nYour ciliary muscle has been contracted for hours.\n\nWhen you suddenly ask it to relax (for distance vision), it's slow.\n\nThis is accommodation lag — and it's measurable.\n\nIf you spend 6+ hours a day on screens, your accommodation system is operating in a compressed range:\n→ Rarely asked to relax fully\n→ Rarely stressed to its near limit\n→ The full arc never exercised\n\nFocus shifting forces the full range:\n- Near (thumb, 60cm) → Mid (3–5m) → Far (window, 6m+)\n- 5 seconds each zone\n- 10 rounds = 2.5 minutes\n\nMost people notice reduced blur lag within 2 weeks of daily practice.\n\nFree guided version: axeo.vision/exercise\n\n#AccommodationLag #FocusShifting #EyeExercise #Axeo #EyeHealth #NearFarFocus #DigitalEyeStrain",
+      "visual_notes": "Accommodation lag visualization. Three-zone diagram. Before/after exercise effect. Dark background, clinical and accessible.",
+      "video_prompt": "Runway Gen-4: Accommodation lag to fix. NO PEOPLE. PART 1 (8s): Simulated point-of-view: near text at 30cm is sharp. Camera pulls back to a distant object — the distant object starts blurry, then slowly sharpens over 3 seconds. Red outline during the blur phase. Text: 'Accommodation lag — the screen effect'. PART 2 (10s): The three-zone focus shifting diagram — near, mid, far — glowing teal dots at each zone. Animated cycle: dot moves near → mid → far → near, with '5s' hold counter at each position. Text: 'Near → Mid → Far → Repeat 10×'. PART 3 (8s): The same point-of-view transition — near to far — but now the distant object sharpens almost instantly. No red outline. Text: 'After training — faster accommodation'. Teal glow on the sharp far object. 9:16. 28 seconds.",
+      "cta": "Free focus shifting exercise — link in description"
+    },
+    {
+      "id": "W4-WED-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "thread",
+      "hook": "The blurry second when you look up from your phone has a name — accommodation lag. Here's the science and the 3-minute fix:",
+      "caption": "1/ Accommodation is your eye's ability to change focus between near and far objects. In a healthy eye, this happens in about 300ms. After a day of screen work, it can take 1–3 seconds. That lag is measurable — and improvable.\n\n2/ The mechanism: your ciliary muscle contracts to increase lens curvature for near focus and relaxes to flatten it for distance. Sustained near work keeps this muscle partially contracted for hours. When you suddenly demand full relaxation (to focus far), it's slow to respond.\n\n3/ This is called accommodation infacility — not the same as myopia, though it contributes to temporary pseudomyopia (blur at distance that resolves after a break). It's a muscle performance issue, not a structural one.\n\n4/ The fix: near-far focus shifting. Three zones — near (60cm), mid (3–5m), far (6m+) — held for 5 seconds each. 10 rounds. Total: 2.5 minutes. Forces the full accommodation arc that screen work never demands.\n\n5/ Research on accommodative facility training shows measurable improvements in response speed within 2–4 weeks of daily practice. This is used in sports vision programs for athletes who need fast focal transitions.\n\n6/ Guided version at axeo.vision/exercise — includes the three-zone timer and technique reminders. Free, browser-based.\n\nIf that post-phone blur is bothering you, try 10 rounds tonight.",
+      "visual_notes": "Thread with optional accommodation arc diagram. Scientific but practical framing. Clean text-based.",
+      "cta": "axeo.vision/exercise"
+    },
+    {
+      "id": "W4-WED-07",
+      "platform": "linkedin",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "article",
+      "hook": "Accommodation infacility — the screen-work vision problem that isn't myopia, but feels like it.",
+      "caption": "If your team spends 6–8 hours a day on screens, some of them are experiencing this:\n\nThey look up from their laptop. The whiteboard, the colleague across the desk, the clock on the wall — all briefly blurry. Refocuses in 1–3 seconds.\n\nThis is not myopia progressing. It's accommodation lag.\n\nThe ciliary muscle — which drives focus transitions — is held near-constantly contracted during screen work. When suddenly asked to relax for distance vision, response is slow.\n\nFor workers who:\n→ Switch frequently between screen and physical materials\n→ Attend in-person meetings after long screen sessions\n→ Drive after work hours (critical safety concern)\n\n...accommodation lag is a direct performance and safety consideration.\n\nThe intervention is straightforward: near-far focus shifting, 3 minutes, daily.\n\n1. Near: 60cm object, 5 seconds\n2. Mid: 3–5m object, 5 seconds\n3. Far: window or 6m+, 5 seconds\n4. 10 rounds\n\nThis exercises the full accommodation range that screen-only work never demands.\n\nAxeo provides guided focus training free at axeo.vision/exercise — no download, no signup, runs in any browser.\n\n#WorkplaceHealth #EyeHealth #EmployeeWellbeing #DigitalEyeStrain #VisionTraining #FocusTraining",
+      "visual_notes": "Professional framing. Workplace safety and performance angle. B2B tone. Axeo as free solution for teams.",
+      "cta": "axeo.vision/exercise — free for individuals and teams"
+    }
+  ]
+}

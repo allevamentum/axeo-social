@@ -1,0 +1,88 @@
+{
+  "day": "Monday",
+  "week": 4,
+  "posts": [
+    {
+      "id": "W4-MON-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "You've been taking screen breaks wrong. The 20-20-20 rule has a version that actually works — and almost no one does it correctly.",
+      "caption": "Most people do the 20-20-20 rule like this:\n\n❌ Look at the wall 20 feet away\n❌ Glance at a window briefly\n❌ Keep screen open in peripheral vision\n\nNone of that works.\n\nYour ciliary muscle never fully releases.\n\nThe correct version:\n✅ Every 20 minutes\n✅ Look OUTSIDE — real depth, not flat surface\n✅ 20 full seconds — blink 5× deliberately\n\nThat's it. That's the whole exercise.\n\nGuided timer at axeo.vision/exercise\n\n#2020rule #EyeStrain #ScreenTime #Axeo #HealthTok #EyeHealth #DigitalEyeStrain",
+      "visual_notes": "Fast-cut stat cards. Wrong version crossed out in red. Correct version in teal. Urgent, corrective energy. Dark background.",
+      "video_prompt": "Runway Gen-4: Myth vs fact card sequence. NO PEOPLE. CARD 1 (4s): Dark background (#0D0E14). Large white text: '20-20-20 rule'. Below: 'Most people do it wrong.' Teal underline animates in. CARD 2 (5s): Three red-crossed bullet points appear one by one — 'Look at the wall ✗' — 'Quick glance ✗' — 'Screen still open ✗'. Each red strikethrough animates left-to-right. CARD 3 (5s): Three teal-checked bullet points replace them — 'Look OUTSIDE ✓' — '20 full seconds ✓' — 'Blink 5× deliberately ✓'. Satisfying green-to-teal checkmarks animate in. Clinical, urgent tone. 9:16. 14 seconds.",
+      "cta": "Link in bio — guided 20-20-20 timer at axeo.vision"
+    },
+    {
+      "id": "W4-MON-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Why your eyes hurt after 2 hours on a screen — the ciliary muscle no one told you about.",
+      "caption": "Every time you look at your phone, a muscle inside your eye contracts.\n\nThe ciliary muscle.\n\nIt squeezes a tiny lens — the crystalline lens — to change focus.\n\nAt arm's length: muscle contracted\nAt 20 feet: muscle relaxed\n\nAfter hours of near work:\n- The muscle fatigues\n- It can cramp and refuse to relax (ciliary spasm)\n- Your eyes ache, water, blur\n\nThis is digital eye strain. Not a disease. A muscle overuse problem.\n\nThe 20-20-20 rule gives the ciliary muscle a mandatory rest.\n\nEvery 20 minutes → 20 feet → 20 seconds.\n\nGuided version with a built-in timer: axeo.vision/exercise\n\n#DigitalEyeStrain #CiliaryMuscle #EyeHealth #Axeo #AxeoVision #20-20-20 #EyeScience",
+      "visual_notes": "Eye anatomy animation. Ciliary muscle highlighted. Contraction vs relaxation shown. Medical explainer format. Dark background with teal accents.",
+      "video_prompt": "Runway Gen-4: Eye anatomy explainer. NO PEOPLE. PART 1 (8s): Detailed cross-section of an eye — dark navy background, teal outlines, the ciliary muscle glowing orange. Text overlay: 'Ciliary muscle — contracts for near focus'. The muscle visibly squeezes, lens curves. PART 2 (10s): A timer counts up — 2h, 3h, 4h — the ciliary muscle progressively reddens and tightens further. A red pulse radiates from it. Text: 'Held contracted for hours = fatigue'. PART 3 (8s): The muscle finally releases — relaxes, color returns to orange/neutral. Window view opens wide in background. Text: '20-20-20 gives this muscle a rest'. Clean, clinical, educational. 9:16. 28 seconds.",
+      "cta": "Link in bio — exercise timer at axeo.vision"
+    },
+    {
+      "id": "W4-MON-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "The 20-20-20 rule — guided. Axeo built a timer so you never forget it again.",
+      "caption": "Digital eye strain isn't a mystery.\n\nIt's your ciliary muscle — held contracted for hours — finally giving up.\n\nThe fix is simple: the 20-20-20 rule.\nEvery 20 minutes → look 20 feet away → 20 seconds.\n\nThe hard part is remembering.\n\nAxeo's exercise timer does that for you:\n- Runs as a browser tab\n- Alerts you every 20 minutes\n- Guides the 20-second break with a blink count\n- No app download needed\n\nFree at axeo.vision/exercise\n\n#EyeExercise #2020Rule #DigitalEyeStrain #Axeo #AxeoVision #EyeHealth #ScreenBreak",
+      "visual_notes": "Screen recording of axeo.vision exercise timer. Clean dark UI. 20-minute countdown. Break sequence with blink guidance. Professional app demo feel.",
+      "video_prompt": "Runway Gen-4 / Screen recording hybrid: Exercise timer demo. NO PEOPLE. PART 1 (8s): Clean dark browser interface — the Axeo exercise page. A circular timer shows '19:47' counting down. Teal ring around the counter. Text: 'Alerts every 20 minutes'. PART 2 (10s): Timer hits zero — a gentle teal pulse animation. Screen transitions to the break screen: 'Look 20 feet away — 20 seconds'. A blink counter animates: Blink 1 → 2 → 3 → 4 → 5. Calming. PART 3 (8s): Break ends, timer resets to 20:00. Text overlay: 'Free. Browser-based. No download.' Axeo logo appears on final frame. Clean, calm, product-demo aesthetic. 9:16. 28 seconds.",
+      "cta": "Link in bio — free exercise timer at axeo.vision"
+    },
+    {
+      "id": "W4-MON-04",
+      "platform": "instagram",
+      "time": "17:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 4, Day 1 — do you currently take screen breaks?",
+      "caption": "It's Week 4 — eye exercises deep dive starts now.\n\nToday: the 20-20-20 rule.\n\nBe honest — do you actually do it?\n\nTake the guided version free: axeo.vision/exercise\n\n#EyeHealth #ScreenBreak #Axeo",
+      "visual_notes": "Instagram Story. Dark teal Axeo brand. Poll: 'Yes — every 20 min 🎯' vs 'I forget every time 😅'. Clean, honest community energy.",
+      "video_prompt": "",
+      "cta": "Try the guided timer — axeo.vision/exercise"
+    },
+    {
+      "id": "W4-MON-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "The 20-20-20 rule was designed by ophthalmologists — here's what it actually does to your eye muscles.",
+      "caption": "20-20-20 isn't a wellness trend.\n\nIt's biomechanics.\n\nYour crystalline lens is focused by the ciliary muscle.\n\nNear work keeps this muscle contracted — indefinitely.\n\nNo other muscle in your body is asked to hold one position for 6–8 hours straight.\n\nAfter sustained contraction:\n→ Ciliary spasm — muscle locks up\n→ Pseudomyopia — temporary blurring of distant vision\n→ Headache, burning, watering eyes\n\nThe 20-20-20 rule forces a mandatory relaxation.\n\nEvery 20 minutes = a rest set for your eye muscles.\n\nFree guided timer: axeo.vision/exercise\n\n#20-20-20 #EyeHealth #DigitalEyeStrain #EyeExercise #Axeo #CiliaryMuscle #VisionScience",
+      "visual_notes": "Eye anatomy explainer with muscle fatigue sequence. Scientific but accessible. Stat-driven. Dark background.",
+      "video_prompt": "Runway Gen-4: Muscle fatigue explainer. NO PEOPLE. PART 1 (8s): Eye cross-section — ciliary muscle labeled and glowing orange. A 'work timer' counts up — 1h → 2h → 4h → 6h. The muscle darkens and tightens with each increment, turning red. PART 2 (10s): Three symptom cards appear in sequence — 'Ciliary spasm ⚡' → 'Temporary blur 🔴' → 'Headache 🔴'. Each card slides in with a red pulse. PART 3 (8s): Counter resets at '20 min'. The muscle glows orange again, relaxes visibly. Text: 'Every 20 minutes — mandatory rest'. Axeo teal glow on final frame. Clinical, factual, urgent. 9:16. 28 seconds.",
+      "cta": "Free guided timer — link in description"
+    },
+    {
+      "id": "W4-MON-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "thread",
+      "hook": "The 20-20-20 rule is one of the most recommended pieces of eye health advice. Almost everyone does it wrong. A thread:",
+      "caption": "1/ The 20-20-20 rule: every 20 minutes of screen time, look at something 20 feet away for 20 seconds. Simple. But there are two common mistakes that make it useless.\n\n2/ Mistake 1: Looking at a wall or flat surface. A wall 20 feet away provides no depth cue. Your ciliary muscle adjusts based on depth — not distance on a flat plane. You need to look at something with actual depth: outdoors, or across a large room with real objects.\n\n3/ Mistake 2: Not blinking. During focused screen use, blink rate drops from 15–20x/min to 3–5x/min. Dry eyes compound fatigue. During your 20-second break, blink deliberately — 5 times, fully. This recoats the tear film.\n\n4/ The physiology: your ciliary muscle is a smooth muscle that contracts to focus on near objects. Unlike skeletal muscle, it has no built-in fatigue signal. It will hold indefinitely — and eventually spasm. The 20-20-20 rule forces relaxation before spasm onset.\n\n5/ In practice: set a 20-minute browser tab timer, stand up, look out a window, blink 5 times, sit back down. Total interruption: 35–40 seconds. Research shows consistent practitioners report significantly less end-of-day eye fatigue.\n\n6/ Axeo has a guided 20-20-20 timer built into the exercise page. Free, browser-based, no download: axeo.vision/exercise\n\nShare if this corrected something you've been doing.",
+      "visual_notes": "Text thread with optional infographic: correct vs incorrect 20-20-20 execution. Teal/dark brand colors. Simple diagram.",
+      "cta": "axeo.vision/exercise"
+    },
+    {
+      "id": "W4-MON-07",
+      "platform": "linkedin",
+      "time": "18:00",
+      "pillar": "education",
+      "format": "article",
+      "hook": "The productivity cost of digital eye strain — and a 35-second intervention that fixes it.",
+      "caption": "Knowledge workers stare at screens for 6–9 hours a day.\n\nAt the end of that day, many report:\n→ Headaches\n→ Blurred near or distance vision\n→ Burning or watering eyes\n→ Difficulty concentrating in the final hours\n\nThis is not a motivation problem. It's a muscle problem.\n\nThe ciliary muscle — which controls focus — is held in near-constant contraction during screen work. Unlike skeletal muscles, it has no built-in fatigue signaling that interrupts performance. It just cramps.\n\nThe fix is well-established and free: the 20-20-20 rule.\nEvery 20 minutes → look 20 feet away → 20 full seconds → blink 5 times.\n\nTotal time cost: 35–40 seconds per cycle.\nExpected productivity impact: cognitive fatigue typically begins accelerating in the final 2 hours of a screen-heavy workday. Consistent 20-20-20 practitioners often report extending productive focus time by 45–60 minutes.\n\nFor teams:\n- Set shared Slack reminders every 20 minutes\n- Encourage standing and looking out windows (not at walls)\n- Track before/after eye strain scores with free tools like axeo.vision\n\nThe easiest wellness intervention most teams haven't tried.\n\n#EmployeeWellbeing #WorkplaceHealth #EyeHealth #RemoteWork #ProductivityTips #EyeStrain",
+      "visual_notes": "Professional LinkedIn article. Productivity-first framing. B2B wellness angle. Stats-supported. Axeo as the free measurement tool.",
+      "cta": "axeo.vision — free eye health tools for teams"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "day": "Friday",
+  "week": 4,
+  "posts": [
+    {
+      "id": "W4-FRI-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "Your eyes have 6 muscles each. You train none of them. Here's what 2 minutes of eye rolling actually does.",
+      "caption": "Six extraocular muscles move each eye in every direction.\n\nYou use them constantly — but you almost never take them through their full range of motion.\n\nScreen work uses maybe 20% of that range.\n\nEye rolling (clock rotations) exercises:\n→ Superior rectus (up)\n→ Inferior rectus (down)\n→ Medial rectus (inward)\n→ Lateral rectus (outward)\n→ Superior and inferior obliques (diagonal)\n\nAll 6 muscles. 2 minutes. Your eyes will feel looser than they have all day.\n\nGuided exercise: axeo.vision/exercise\n\n#EyeRolling #EyeExercise #ExtraocularMuscles #Axeo #HealthTok #EyeHealth #VisionTraining",
+      "visual_notes": "Six muscle diagram animated. Clock rotation pathway shown. Urgent, athletic energy. Dark background with teal muscle labels.",
+      "video_prompt": "Runway Gen-4: Extraocular muscle training. NO PEOPLE. CARD 1 (4s): Dark background. A stylized eyeball from a front-facing angle — six labeled muscle arrows radiate from it in all directions like a compass: Up, Down, Left, Right, Upper-Left, Lower-Right. Teal labels animate on. Text: '6 muscles. 2 minutes. Full range.' CARD 2 (5s): The same eye diagram but arrows are partially grey — only the center zone glows teal. Text: 'Screen work uses 20% of your eye's range'. Most arrows dim. CARD 3 (5s): All six arrows activate and pulse teal simultaneously. A circular rotation path appears around the eye. Text: 'Clock rotations — all 6 muscles, full range'. Energetic, athletic. 9:16. 13 seconds.",
+      "cta": "Link in bio — guided eye rotation at axeo.vision"
+    },
+    {
+      "id": "W4-FRI-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Eye rolling and clock rotations: the anatomy behind the exercise — and why your eye muscles need a full-range workout.",
+      "caption": "Most people move their eyes in a tiny window all day.\n\nPhone → keyboard → screen → keyboard. All within about 40° of arc.\n\nYour eyes can move up to 45° in any direction.\n\nThe muscles that power this:\n→ 4 rectus muscles (up, down, in, out)\n→ 2 oblique muscles (diagonal, rotation)\n→ All controlled by 3 cranial nerves (III, IV, VI)\n\nWhen these muscles are underused:\n- They tighten at their most-used angle\n- Peripheral eye movements become less smooth\n- Oculomotor fatigue accumulates unevenly\n\nClock rotations exercise:\n1. Eyes only — keep head still\n2. Slowly trace a clockwise circle — large as you can manage\n3. Hold each 'hour' position for 1 second\n4. 3 clockwise rounds, 3 counter-clockwise\n5. Finish with tight spiraling circles inward, then outward\n\nYour eyes should feel noticeably different afterward.\n\nGuided exercise: axeo.vision/exercise\n\n#EyeRolling #ClockRotations #EyeExercise #Axeo #AxeoVision #ExtraocularMuscles #EyeHealth",
+      "visual_notes": "Anatomy diagram with all 6 muscles labeled. Clock rotation path animated. Athletic, educational. Dark background.",
+      "video_prompt": "Runway Gen-4: Eye muscle anatomy and clock rotation. NO PEOPLE. PART 1 (8s): Stylized front-view eye anatomy — dark background, teal iris, six muscle bundles labeled and color-coded radiating outward. Cranial nerve numbers (III, IV, VI) appear near corresponding muscles. Text: 'Six muscles. Three cranial nerves. One goal: full-range motion.' PART 2 (10s): A clockface overlaid on a dark background. A glowing teal dot traces slowly around the full clock — 12 → 3 → 6 → 9 → 12 — pausing 1 second at each number. Text: 'Clock rotations — hold each position 1 second'. Second round starts, faster. PART 3 (8s): Step-by-step instruction cards: '3 clockwise rounds' → '3 counter-clockwise' → 'Spiral inward → outward'. Each card with a teal accent. Final: 'All 6 muscles. 2 minutes.' Athletic, clinical. 9:16. 28 seconds.",
+      "cta": "Link in bio — guided eye rotations at axeo.vision"
+    },
+    {
+      "id": "W4-FRI-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "reel-30s",
+      "hook": "Eye rolling isn't an insult — it's an exercise. Here's the full extraocular muscle workout in 2 minutes.",
+      "caption": "Six muscles move each eye. You're probably only using two of them today.\n\nThe screen + keyboard + screen pattern uses a narrow horizontal range.\n\nClock rotations exercise all six:\n\nThe technique:\n1. Head still — eyes only\n2. Look as far up as possible — hold 1 second\n3. Slowly sweep clockwise — full circle — holding each extreme position\n4. Complete 3 full clockwise rotations\n5. Repeat 3 counter-clockwise\n6. Finish: tight spiral circles, small to large, then large to small\n\nSensations during:\n→ Resistance at positions rarely used — normal\n→ Slight strain at the oblique (diagonal) positions — normal\n→ Twitching or shaking — normal at first\n\nExpect the first set to feel challenging in unexpected directions. That's the underused muscles waking up.\n\nFree guided version with timing: axeo.vision/exercise\n\n#EyeExercise #ClockRotations #ExtraocularMuscles #Axeo #AxeoVision #EyeHealth #VisionTraining",
+      "visual_notes": "Clockface with eye rotation path animated. Step-by-step instruction overlay. Athletic, energetic feel. Dark background teal accents.",
+      "video_prompt": "Runway Gen-4: Clock rotation exercise reel. NO PEOPLE. PART 1 (8s): A large clockface on a dark background — elegant, minimal, teal numerals. A bright white dot starts at 12 and traces the full clock circle clockwise, pausing 1s at 3, 6, 9, 12. Text: 'Clock rotations — slow and deliberate'. PART 2 (10s): Step cards slide in: 'Head still — eyes only' → 'Sweep full circle clockwise' → '1 second hold at each extreme' → '3 rounds CW, 3 rounds CCW'. Teal numbered sequence. PART 3 (8s): A six-direction eye muscle diagram — all six vectors light up in sequence as the clock rotation traverses them. Final frame: all six glowing simultaneously. Text: 'All 6 muscles activated. Done in 2 minutes.' Athletic, clean. 9:16. 28 seconds.",
+      "cta": "Link in bio — guided clock rotations at axeo.vision"
+    },
+    {
+      "id": "W4-FRI-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 4, Day 5 — how are your eyes feeling by end of the work week?",
+      "caption": "Friday afternoon eye check-in.\n\nScreen fatigue hits hardest by the end of the week.\n\nToday: clock rotations — 2 minutes to exercise all 6 eye muscles before the weekend.\n\nTried it yet?\n\nGuided: axeo.vision/exercise\n\n#EyeHealth #WeekendPrep #Axeo",
+      "visual_notes": "Instagram Story. Axeo dark teal brand. Weekend energy — slightly more relaxed. Poll: 'My eyes are exhausted 😩' vs 'Surprisingly fine 💪'. Honest, relatable.",
+      "video_prompt": "",
+      "cta": "Wind down with eye rotations — axeo.vision/exercise"
+    },
+    {
+      "id": "W4-FRI-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "The 6 muscles that move your eyes — and why none of them get a proper workout during screen time.",
+      "caption": "Six extraocular muscles. Three cranial nerves. Coordinated by the brainstem.\n\nThis system is one of the most complex motor systems in the human body.\n\nAnd we sit them in a keyboard-to-screen-to-keyboard rut all day.\n\nThe muscles: rectus medialis (inward), rectus lateralis (outward), rectus superior (up), rectus inferior (down), obliquus superior (down-in rotation), obliquus inferior (up-out rotation).\n\nScreen work exercises roughly: lateral, medial, and a narrow vertical band.\n\nThe obliques — which handle all diagonal and rotational movement — are almost never challenged by modern work patterns.\n\nResult: uneven muscular development, asymmetric tension, and oculomotor fatigue that concentrates in specific vectors.\n\nClock rotations fix this. 2 minutes. All 6 muscles.\n\nGuided version: axeo.vision/exercise\n\n#ExtraocularMuscles #EyeExercise #ClockRotations #Axeo #EyeHealth #VisionTraining #EyeAnatomy",
+      "visual_notes": "Full muscle anatomy diagram. Usage vs full-range comparison. Athletic educational tone. Dark background.",
+      "video_prompt": "Runway Gen-4: Extraocular muscle anatomy and usage analysis. NO PEOPLE. PART 1 (8s): Eye anatomy — front view. Six labeled muscle bundles radiate from the center. Each lights up in teal as named: 'Rectus Medialis → Lateralis → Superior → Inferior → Obliquus Superior → Inferior'. Clinical 3D anatomy style. PART 2 (10s): Overlay: a small yellow cone appears in front of the eye — showing the actual range used during screen work (narrow horizontal band, ~30° arc). Text: 'Screen work: ~30° of a 270° total range'. Muscles outside the cone go grey. PART 3 (8s): Clock rotation path activates — the full 270° arc lights up in teal as the rotation traces it. All six muscles glow. Text: '2 minutes. All 6 muscles. Full range.' Axeo brand. 9:16. 28 seconds.",
+      "cta": "Free eye rotation guide — link in description"
+    },
+    {
+      "id": "W4-FRI-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "thread",
+      "hook": "Your eye muscles get a workout during screen time — but only in about 30° of their total 270° range. Here's why that matters and what to do about it:",
+      "caption": "1/ Six extraocular muscles control each eye: four rectus muscles (up, down, in, out) and two oblique muscles (diagonal and rotational movement). This system is controlled by cranial nerves III, IV, and VI — coordinated at the level of the brainstem.\n\n2/ In normal modern screen-centric work, eye movement is predominantly horizontal and within a very narrow vertical band. The full arc of motion — especially the oblique vectors and the extremes of each rectus — is rarely engaged.\n\n3/ The oblique muscles (superior oblique: CN IV, inferior oblique: CN III) handle intorsion and extorsion — rotational and diagonal eye movement. These are the muscles used for reading text on angled surfaces, tracking moving objects diagonally, and precise depth-shift work. Almost never needed at a desk.\n\n4/ Underuse consequences: asymmetric oculomotor tension (fatigue concentrated in frequently used vectors), reduced smooth pursuit range, and occasionally vertical phoria — a small vertical misalignment between the two eyes that can cause subtle diplopia under fatigue.\n\n5/ Clock rotations are a direct intervention: slowly tracing a full-circle path with the eyes (keeping head still) forces all six muscles through their full working range. 3 clockwise + 3 counter-clockwise rotations, holding at each extreme — total 2 minutes.\n\n6/ Axeo has a guided clock rotation exercise at axeo.vision/exercise. Free, browser-based, includes technique reminders.\n\nFriday is the best day to do this — end of a full week of narrow-range eye use.",
+      "visual_notes": "Educational thread. Anatomy-level detail but accessible. The oblique muscle insight is genuinely novel for most readers.",
+      "cta": "axeo.vision/exercise"
+    },
+    {
+      "id": "W4-FRI-07",
+      "platform": "reddit",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "text-post",
+      "hook": "Eye rolling as exercise: the extraocular muscle workout I've been doing all week — and what I've noticed.",
+      "caption": "r/EyeCare or r/HealthyHabits\n\nWeek 4, Day 5 of my eye exercise experiment. Today was clock rotations — also called eye rolling — which exercises all six extraocular muscles.\n\nHad no idea the oblique muscles (the ones handling diagonal and rotational movement) are basically never challenged during desk work. I tried going to the 'lower right' extreme during the rotation and could genuinely feel resistance — like a muscle that hadn't been stretched in a while.\n\nAfter 6 rounds (3 clockwise, 3 counter-clockwise):\n- Eyes felt noticeably more mobile — hard to describe, but less 'locked' than usual\n- The tightness behind my right eye that I'd chalked up to screen fatigue was reduced\n- Distance objects seemed slightly cleaner for about 10 minutes afterward (probably accommodation releasing?)\n\nFor anyone curious about the anatomy: four rectus muscles handle the cardinal directions, two oblique muscles handle rotation and diagonal movement. Screen work essentially only uses the horizontal portion of the rectus range. Clock rotations hit everything.\n\nUsing axeo.vision/exercise for the guided version — it has a full protocol with timing. Free.\n\nWeek's been: 20-20-20 → Palming → Focus shifting → Brock String → Eye rotations. Tomorrow: figure-8 tracking. Then a full recap Sunday.\n\nAnyone else done eye rotation exercises consistently for a few weeks? Curious about longer-term results.",
+      "visual_notes": "Personal, reflective tone. Week context. Anatomy detail from first-person experience. Genuine curiosity. Soft Axeo mention through usage.",
+      "cta": "axeo.vision/exercise — full exercise library, free"
+    }
+  ]
+}
