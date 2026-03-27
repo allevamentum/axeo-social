@@ -1,0 +1,86 @@
+{
+  "day": "Friday",
+  "week": 2,
+  "posts": [
+    {
+      "id": "W2-FRI-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "You blink 66% less when staring at a screen. Your eyes are drying out right now.",
+      "caption": "Normal blink rate: 15–20 times per minute.\nOn screens: 5–7 blinks per minute.\n\nThat's a 66% reduction.\n\nDry, irritated eyes = the #1 complaint of remote workers.\n\nThe fix is embarrassingly simple: blink deliberately. 5× right now.\n\nFree blink exercise guide: axeo.vision\n\n#BlinkRate #DigitalEyeStrain #EyeHealth #Axeo #HealthTok #ScreenTime #RemoteWork",
+      "visual_notes": "Fast stat cards. Blink rate counter animation. Screen with low blink indicator. Urgent but simple tone.",
+      "video_prompt": "Runway Gen-4: Stat sequence. NO PEOPLE. CARD 1 (3s): white '15–20x' on dark background, teal subtitle 'blinks per minute — normal'. CARD 2 (3s): amber '5–7x', white subtitle 'blinks per minute — on screens'. CARD 3 (3s): red '66% LESS' large centered, white subtitle 'tear film not replenishing'. CARD 4 (4s): close-up macro of a single eye blinking in slow motion — NO FACE, extreme close-up, lashes visible, soft film grain. Teal tint. Concerned, clinical mood. 9:16. 13 seconds.",
+      "cta": "Link in bio — eye strain relief exercises"
+    },
+    {
+      "id": "W2-FRI-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Your eyes need a weekend too. Here's a 3-step Friday reset.",
+      "caption": "5 days of screens. Your ciliary muscle has been contracted since Monday.\n\nFriday reset routine (10 minutes):\n\n1. Palming (2 min) — warm your palms, cup over closed eyes\n2. Near-far shift (3 min) — focus finger close, then something far across the room\n3. Figure-8 tracking (2 min) — trace a slow figure-8 in the air with your eyes\n\nGuided version: axeo.vision/exercise\n\n#EyeExercise #WeekendReset #Axeo #AxeoVision #EyeHealth #DigitalDetox #HealthTok",
+      "visual_notes": "3-step exercise cards. Abstract warm glow for palming. Near-far shift diagram. Calm, restorative weekend tone.",
+      "video_prompt": "Runway Gen-4: Three-part sequence. NO PEOPLE. PART 1 (8s): CLIP 08 style — abstract amber warmth radiating from center in darkness. Text overlay 'Step 1: Palming — 2 minutes'. Slow pulse. PART 2 (8s): room interior with a small object in foreground (sharp) and window with distant view (also sharp). Slow focus rack between near and far. 'Step 2: Near-Far Shift' overlay. PART 3 (8s): abstract visualization — a glowing teal dot traces a smooth figure-8 path against dark background. 'Step 3: Figure-8 Tracking' overlay. Warm, meditative, restorative mood. 9:16. 28 seconds.",
+      "cta": "Link in bio — guided exercises free"
+    },
+    {
+      "id": "W2-FRI-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "reel-30s",
+      "hook": "The blink exercise — 60 seconds that actually fix dry eye.",
+      "caption": "Most people treat dry eye with drops.\n\nThe root cause: you're not blinking completely.\n\nThe Blinking Reset (optometrist-recommended):\n1. Close eyes gently — 1 second\n2. Squeeze lightly — 1 second\n3. Open slowly — 1 second\n4. Repeat 10× every hour\n\nThis reactivates your meibomian glands (the oil layer of your tear film).\n\nFree guided blink exercise on axeo.vision\n\n#DryEye #BlinkExercise #EyeHealth #Axeo #AxeoVision #Optometrist #DigitalEyeStrain",
+      "visual_notes": "Step-by-step blink instruction overlay. Abstract eye visualization — no real eye. Slow, deliberate medical tone. Clean white or dark background.",
+      "video_prompt": "Runway Gen-4: Instructional sequence. NO PEOPLE. PART 1 (8s): extreme macro of a camera aperture blade slowly closing and opening — used as visual metaphor for blinking. Shallow depth of field. Soft clinical light. PART 2 (10s): animated cross-section diagram of the eyelid with meibomian gland highlighted in orange (teal outline on dark background). Animated arrow shows oil secreting onto tear film as lid closes. PART 3 (8s): screen recording of Axeo blink exercise interface with countdown timer visible. Text overlays guide through each step. Calm, satisfying pace. 9:16. 28 seconds.",
+      "cta": "Link in bio — free blink reset guide"
+    },
+    {
+      "id": "W2-FRI-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Friday! How are your eyes feeling after a full week of screens?",
+      "caption": "Week 2, Day 5 — end of the work week eye check!\n\nHave you noticed any improvement from the exercises this week?\n\nDrop a comment with your experience 👇\n\n#EyeHealth #WeeklyChallenge #Axeo",
+      "visual_notes": "Instagram Story with emoji slider from 'burning red eyes' 🔥 to 'fresh and clear' ✨. Friday energy. Teal/dark Axeo brand. Weekend vibe.",
+      "cta": "Weekend challenge — axeo.vision/exercise"
+    },
+    {
+      "id": "W2-FRI-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "demo",
+      "format": "video-30s",
+      "hook": "The complete Axeo vision test — everything free, no sign-up, 4 minutes.",
+      "caption": "Take your full vision baseline before the weekend.\n\nAxeo free tests:\n1. Snellen acuity — what's your score?\n2. Color vision — do you have a deficiency?\n3. Astigmatism pattern — is your cornea irregular?\n4. Contrast sensitivity — can you detect low contrast?\n\nResults stored. Track changes over time.\n\naxeo.vision — no sign-up needed.\n\n#EyeTest #VisionTest #Axeo #EyeHealth #FreeTest #VisionCare #Optometry",
+      "visual_notes": "Screen recording walkthrough of all 4 Axeo tests. Clean app UI. Results page visible at end. Professional, reassuring tone.",
+      "cta": "Free — link in description"
+    },
+    {
+      "id": "W2-FRI-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "education",
+      "format": "media-post",
+      "hook": "The blink crisis: you blink 66% less on screens. Your eyes are running on empty.",
+      "caption": "Normal: 15–20 blinks/minute.\nOn screens: 5–7 blinks/minute.\n\nEach blink recoats your eye in tear film.\nFewer blinks = faster evaporation = dry, strained eyes.\n\nThe fix: deliberate blinking.\nEvery hour: close → squeeze → open. 10 reps.\n\naxeo.vision has a guided version.",
+      "visual_notes": "Infographic: blink rate comparison chart. Tear film diagram. Clean Axeo brand design.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W2-FRI-07",
+      "platform": "linkedin",
+      "time": "18:00",
+      "pillar": "education",
+      "format": "article",
+      "hook": "Remote work gave us flexibility. It also gave us an eye health crisis.",
+      "caption": "After 5 years of widespread remote work, we're seeing a predictable consequence:\n\n→ 58% of remote workers report chronic eye strain (vs 38% pre-2020)\n→ Average screen time jumped from 7h to 11h/day\n→ Near-work without breaks is the #1 driver of myopia progression in adults\n\nThree changes that take under 5 minutes per hour:\n\n1. 20-20-20 rule (every 20 min, look 20 feet away for 20 sec)\n2. Deliberate blinking reset (10 complete blinks per hour)\n3. One minute of palming before every meeting\n\nCompanies investing in employee eye health see measurable drops in reported headaches and focus issues within 30 days.\n\nAxeo provides guided eye exercises for teams: axeo.vision\n\n#RemoteWork #EmployeeWellness #EyeHealth #DigitalWellbeing #Productivity",
+      "visual_notes": "Professional LinkedIn long-form post. Stats-heavy. Practical takeaways. Positioned as workplace wellness content.",
+      "cta": "axeo.vision — team eye health tools"
+    }
+  ]
+}

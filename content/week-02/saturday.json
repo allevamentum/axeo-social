@@ -1,0 +1,86 @@
+{
+  "day": "Saturday",
+  "week": 2,
+  "posts": [
+    {
+      "id": "W2-SAT-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "By 2050, half the world will be nearsighted. We are in a myopia epidemic.",
+      "caption": "In 1970: 25% of the world was myopic.\nToday: 33%.\nBy 2050: 50% — that's 5 billion people.\n\nThis is the fastest-growing epidemic in eye health history.\n\nThe cause is clear: near work + reduced outdoor time.\n\nThe fix is also clear — if we act early.\n\nFree tools: axeo.vision\n\n#MyopiaEpidemic #EyeHealth #Axeo #HealthTok #VisionHealth #PublicHealth #ScreenTime",
+      "visual_notes": "Dramatic stats sequence. World map with spreading color. Timeline animation. Urgent, global scale tone.",
+      "video_prompt": "Runway Gen-4: Dramatic stat escalation. NO PEOPLE. CARD 1 (3s): '1970: 25%' in white on dark — globe icon with 1/4 teal. CARD 2 (3s): 'TODAY: 33%' — globe icon with 1/3 teal, slightly brighter. CARD 3 (3s): '2050: 50%' in large amber text — globe half-filled in teal. CARD 4 (4s): '5 BILLION PEOPLE' filling the screen in white, bold, with teal underline. Dark background throughout. Dramatic, building momentum. 9:16. 13 seconds.",
+      "cta": "Link in bio — protect your vision now"
+    },
+    {
+      "id": "W2-SAT-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Presbyopia at 40 isn't inevitable. Here's what the research says.",
+      "caption": "Presbyopia = the gradual loss of near-focus ability after 40.\n\nIt affects nearly everyone. But severity varies enormously.\n\nFactors that make it worse:\n- Low outdoor light exposure throughout life\n- Chronic near work without breaks\n- Poor nutrition (lutein, zeaxanthin deficiency)\n\nFactors that help:\n- Consistent accommodation exercises (near-far focus shifts)\n- Outdoor activity — natural light keeps the ciliary muscle healthier\n\nYou can't stop aging. But you can slow the curve.\n\nExercises: axeo.vision/exercise\n\n#Presbyopia #EyeHealth #Axeo #AxeoVision #AgingEyes #EyeExercise #Optometry",
+      "visual_notes": "Educational explainer. Lens accommodation animation. Age vs presbyopia severity curve graph. Balanced, empowering tone.",
+      "video_prompt": "Runway Gen-4: Two-part sequence. NO PEOPLE. PART 1 (14s): animated side-view diagram of the human eye lens — at '20 years' the lens is shown flat and flexible (clear animation). At '45 years' the same lens appears stiffer with dotted lines showing reduced curvature range. Teal outlines, dark navy background. Smooth morphing animation between ages. PART 2 (12s): two line graph chart — X axis 'Age', Y axis 'Near focus loss'. LINE A: steep curve downward (no exercise/outdoor time). LINE B: gentle slope (active eye care). Both lines diverge clearly at age 40. Teal and amber lines. Clean medical chart aesthetic. 9:16. 28 seconds.",
+      "cta": "Link in bio — accommodation exercises"
+    },
+    {
+      "id": "W2-SAT-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "reel-15s",
+      "hook": "The global myopia epidemic — 3 stats that will change how you see screen time.",
+      "caption": "The numbers are staggering.\n\n📊 1 in 3 globally — myopic right now\n📊 50% of the world — by 2050\n📊 Children: myopia onset 2 years earlier than 1990\n\nAnd the #1 modifiable risk factor isn't genetics.\n\nIt's screen time replacing outdoor time.\n\nHelp your family understand this: share this post.\n\nFree tools at axeo.vision\n\n#MyopiaEpidemic #EyeHealth #Axeo #AxeoVision #ScreenTime #VisionHealth #FutureSight",
+      "visual_notes": "Three dramatic stat cards. World-scale imagery. Data visualization. Dark background, teal accent. Share-worthy format.",
+      "video_prompt": "Runway Gen-4: Three-card rapid reveal. NO PEOPLE. CARD 1 (4s): '1 IN 3' in massive white type, teal subtitle 'people globally — myopic today'. Dark background. CARD 2 (4s): '1 IN 2' in amber, white subtitle 'predicted by 2050'. Subtle zoom-in on number. CARD 3 (5s): '2 YEARS EARLIER' in white, teal subtitle 'age of myopia onset in children vs 1990'. Each card has a simple globe or chart icon. Hard cuts between cards. Urgent, data-driven mood. 9:16. 14 seconds.",
+      "cta": "Link in bio — protect your vision"
+    },
+    {
+      "id": "W2-SAT-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Week 2, Day 6 — almost there! One question:",
+      "caption": "Would you pay $3/month for guided eye exercises that prevent myopia progression?\n\nAnswers help us build better tools for you.\n\n#Axeo #EyeHealth #Community",
+      "visual_notes": "Instagram Story poll: 'Yes — prevention is worth it' vs 'Not sure — show me more first'. Honest, direct question. Teal/dark brand.",
+      "cta": "Try 7 days free — axeo.vision"
+    },
+    {
+      "id": "W2-SAT-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "Myopia vs hyperopia vs astigmatism — what's actually the difference?",
+      "caption": "The 3 most common refractive errors — and how to tell them apart:\n\nMyopia (nearsighted):\n- Blurry at distance, clear up close\n- Eyeball too long\n\nHyperopia (farsighted):\n- Blurry up close, may be clear at distance\n- Eyeball too short\n\nAstigmatism:\n- Blurry at ALL distances\n- Cornea is oval, not round\n\nYou can have more than one.\n\nFree awareness tests for all three: axeo.vision\n\n#Myopia #Hyperopia #Astigmatism #EyeHealth #Axeo #Optometry #VisionTest",
+      "visual_notes": "Three-panel educational diagram. Side-view eye anatomy. Light ray focus points. Clean, educational animation style.",
+      "cta": "Free tests — link in description"
+    },
+    {
+      "id": "W2-SAT-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "thread",
+      "hook": "The myopia epidemic is the fastest-growing public health crisis you've never heard of. A thread:",
+      "caption": "1/ By 2050, 50% of the world's population will be myopic. That's 5 billion people.\n\n2/ In 1970, the global rate was 25%. Today it's 33%. We've added 8 percentage points in 50 years — and are about to add 17 more in 30.\n\n3/ The cause isn't genetics — genetics haven't changed. It's behavior: less outdoor time, more sustained near work, starting younger.\n\n4/ Natural light exposure is protective. Studies show 1 extra hour of outdoor time/day reduces myopia risk by 50% in children.\n\n5/ The interventions exist. Atropine drops, orthokeratology, outdoor time, reduced near work. But they require awareness first.\n\n6/ Axeo builds that awareness + provides exercises that support eye health: axeo.vision\n\nShare if you learned something.",
+      "visual_notes": "Twitter/X thread. Data-driven. Shareable. Link at the end. Accessible to general audience.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W2-SAT-07",
+      "platform": "reddit",
+      "time": "20:00",
+      "pillar": "conversion",
+      "format": "text-post",
+      "hook": "I tracked my vision test results weekly for 30 days using a free browser tool — here's what I found",
+      "caption": "r/EyeCare or r/Biohackers\n\nBackground: I've been mildly myopic for years (-1.25 / -1.50) and curious whether lifestyle changes could slow progression.\n\nFor 30 days I:\n- Did the 20-20-20 rule strictly\n- Added 1 hour of outdoor time daily\n- Ran the free Snellen + contrast sensitivity tests weekly on axeo.vision\n\nWhat I found:\n- Acuity score stable (expected — 30 days is short)\n- Contrast sensitivity improved by ~8% (surprising)\n- Eye strain headaches: dropped from ~4/week to ~1/week\n- Subjective: eyes feel less dry and tired by Friday\n\nThis isn't a clinical study. But the subjective changes were notable enough that I'm continuing.\n\nThe tool I used (axeo.vision) is free, no signup, browser-based — takes 4 minutes for all tests. Happy to answer questions about the protocol.",
+      "visual_notes": "First-person experience format. Authentic, data-driven, community-appropriate. Not promotional — shares personal protocol.",
+      "cta": "axeo.vision — free weekly vision tracking"
+    }
+  ]
+}

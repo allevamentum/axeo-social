@@ -1,0 +1,86 @@
+{
+  "day": "Thursday",
+  "week": 2,
+  "posts": [
+    {
+      "id": "W2-THU-01",
+      "platform": "tiktok",
+      "time": "08:00",
+      "pillar": "shock",
+      "format": "video-15s",
+      "hook": "1 in 3 adults has astigmatism. Most don't know it.",
+      "caption": "Astigmatism causes blurry vision at ALL distances — not just far away.\n\nAnd it's the most under-diagnosed refractive error.\n\nSymptoms:\n- Halos around lights at night\n- Eyestrain after 30 minutes of reading\n- Headaches after screen use\n- Squinting to see clearly\n\nFree astigmatism awareness test: axeo.vision\n\n#Astigmatism #EyeHealth #VisionTest #Axeo #HealthTok #EyeCare",
+      "visual_notes": "Fast stat cards. Astigmatism diagram showing distorted vs clear vision. Night driving halo effect. Bold white text on dark background.",
+      "video_prompt": "Runway Gen-4: Fast-cut stat card sequence. NO PEOPLE. CARD 1 (3s): bold white '1 IN 3' on #0D0E14 dark background, teal subtitle 'adults have astigmatism'. CARD 2 (3s): Split screen — left: clean sharp streetlight, right: same streetlight with starburst halo glow (simulating astigmatic vision). CARD 3 (3s): '70%' in white, teal subtitle 'never had it diagnosed'. Final card (4s): 'Free test: axeo.vision' in teal on dark. Urgent, factual tone. 9:16. 13 seconds.",
+      "cta": "Link in bio — free vision test"
+    },
+    {
+      "id": "W2-THU-02",
+      "platform": "tiktok",
+      "time": "19:00",
+      "pillar": "education",
+      "format": "video-30s",
+      "hook": "What astigmatism actually does to your vision — animated.",
+      "caption": "Astigmatism = your cornea is oval-shaped instead of round.\n\nResult: light focuses in two places instead of one.\n\nThis causes:\n- Blur at ALL distances (unlike myopia — only far)\n- Distortion, not just fuzziness\n- Worse at night (pupils dilate = more distortion)\n\nTested with: Jackson Cross Cylinder method.\n\nOr free: axeo.vision\n\n#Astigmatism #Optometry #Axeo #EyeHealth #HealthTok #VisionScience",
+      "visual_notes": "Animated diagram of cornea shape. Light ray animation showing double focal point. Simulation of astigmatic vs normal vision on text/lights.",
+      "video_prompt": "Runway Gen-4: Three-part educational sequence. NO PEOPLE. PART 1 (10s): top-down animated diagram — a perfect sphere labeled 'Normal cornea' morphs slowly into an oval/football shape labeled 'Astigmatic cornea'. Teal outlines, dark navy background, clean medical aesthetic. PART 2 (10s): animated light ray diagram — single incoming ray hits oval cornea, splits into two focal points instead of one converging point. Orange focal points, teal rays. PART 3 (8s): split-screen simulation — left half sharp clock face, right half same clock with radial blur/distortion on the lines. Slow transition. 9:16. 28 seconds.",
+      "cta": "Link in bio — test your vision free"
+    },
+    {
+      "id": "W2-THU-03",
+      "platform": "instagram",
+      "time": "09:00",
+      "pillar": "demo",
+      "format": "reel-30s",
+      "hook": "We filmed every vision test on Axeo. All 4. In 30 seconds.",
+      "caption": "Axeo includes 4 complete vision tests — all free, no sign-up:\n\n1. Snellen acuity (20/20 baseline)\n2. Color vision (Ishihara-style)\n3. Astigmatism pattern test\n4. Contrast sensitivity\n\nTakes under 5 minutes total.\n\nAxeo stores your baseline so you can track changes over time.\n\nFree at axeo.vision\n\n#EyeTest #VisionTest #Axeo #AxeoVision #EyeHealth #FreeTest #Optometry",
+      "visual_notes": "Screen recording of all 4 tests in rapid sequence. Clean app UI. Each test labeled with animated text overlay. Satisfying, fast-paced assembly edit.",
+      "video_prompt": "Runway Gen-4 / Screen recording hybrid: Four-part rapid sequence. NO PEOPLE. PART 1 (6s): Snellen chart filling frame, letters progressively smaller. 'Acuity Test' teal label appears. PART 2 (6s): Colorful Ishihara-style dot pattern — number emerges with teal ring. 'Color Vision' label. PART 3 (6s): Astigmatism wheel/starburst pattern on white background. Lines sharp in one axis, blurry in other. 'Astigmatism' label. PART 4 (6s): Low-contrast grayscale gradient bars — the contrast sensitivity chart. 'Contrast Sensitivity' label. Fast cuts between each. Clean white backgrounds, teal accent text. 9:16. 28 seconds.",
+      "cta": "Link in bio — take all 4 free"
+    },
+    {
+      "id": "W2-THU-04",
+      "platform": "instagram",
+      "time": "18:00",
+      "pillar": "community",
+      "format": "story-poll",
+      "hook": "Day 4 check-in — which vision problem surprised you most this week?",
+      "caption": "Week 2, Day 4 — what's the most surprising thing you've learned?\n\nDrop it in the poll 👇\n\n#EyeHealth #Axeo #WeeklyChallenge",
+      "visual_notes": "Instagram Story poll: Option A 'Kids getting myopia 2 years earlier' vs Option B 'Astigmatism affects 1 in 3'. Thursday energy. Teal/dark Axeo brand colors.",
+      "cta": "Keep going — axeo.vision"
+    },
+    {
+      "id": "W2-THU-05",
+      "platform": "youtube-shorts",
+      "time": "14:00",
+      "pillar": "shock",
+      "format": "video-30s",
+      "hook": "Why night driving feels impossible — and it's not your glasses.",
+      "caption": "Night driving difficulty is a classic astigmatism symptom.\n\nHere's why:\n- Pupils dilate in the dark\n- More of the irregular cornea is exposed\n- Streetlights, headlights → starburst halos\n- Oncoming lights cause glare and scatter\n\nMost people blame their prescription. The issue is corneal shape.\n\nAstigmatism test: axeo.vision\n\n#NightDriving #Astigmatism #EyeHealth #Axeo #Optometrist #VisionTest #EyeCare",
+      "visual_notes": "Night driving POV with halo/starburst effect on headlights. No people. Split screen — corrected vs astigmatic vision. Medical overlay text.",
+      "cta": "Free test — link in description"
+    },
+    {
+      "id": "W2-THU-06",
+      "platform": "x",
+      "time": "09:00",
+      "pillar": "shock",
+      "format": "media-post",
+      "hook": "Astigmatism: the vision problem 1 in 3 people have — and most don't know it.",
+      "caption": "Astigmatism affects ~33% of adults.\n\nUnlike myopia (blurry far) or hyperopia (blurry near) — astigmatism blurs at ALL distances.\n\nSymptoms: halos around lights, eyestrain, headaches.\nOften dismissed as 'just tired eyes'.\n\nFree awareness test: axeo.vision",
+      "visual_notes": "Infographic: cornea shape diagram (round vs oval) + symptom list. Teal/dark Axeo brand colors.",
+      "cta": "axeo.vision"
+    },
+    {
+      "id": "W2-THU-07",
+      "platform": "reddit",
+      "time": "18:00",
+      "pillar": "education",
+      "format": "text-post",
+      "hook": "How to know if you have astigmatism without going to an optometrist (free self-test methods)",
+      "caption": "r/EyeCare or r/optometry\n\nAstigmatism is remarkably common (~33% of adults) and often self-detectable.\n\nThree at-home methods:\n\n**1. The wheel/sunburst test**\nLook at a starburst pattern. If some lines look darker or sharper than others in one direction, you likely have astigmatism.\n\n**2. The vertical/horizontal line test**\nLook at a grid. If horizontal lines appear clearer than vertical (or vice versa), classic astigmatic sign.\n\n**3. Cover test at night**\nCover one eye in the dark and look at a distant streetlight. Starburst halo = strong indicator.\n\nThese don't replace a clinical exam but give a strong indication. Free web-based version at axeo.vision (no sign-up).\n\nHappy to answer questions.",
+      "visual_notes": "Text post with optional astigmatism wheel image. Educational, community-driven tone.",
+      "cta": "axeo.vision — free astigmatism awareness test"
+    }
+  ]
+}
